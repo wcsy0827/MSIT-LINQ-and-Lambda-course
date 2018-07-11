@@ -1,0 +1,10 @@
+C:\Temp\LINQ2SQLDebug\LINQ2SQLDebug\bin\Debug\LINQ2SQLDebug.exe.config
+C:\Temp\LINQ2SQLDebug\LINQ2SQLDebug\bin\Debug\LINQ2SQLDebug.exe
+C:\Temp\LINQ2SQLDebug\LINQ2SQLDebug\bin\Debug\LINQ2SQLDebug.pdb
+C:\Temp\LINQ2SQLDebug\LINQ2SQLDebug\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\LINQ2SQLDebug\LINQ2SQLDebug\obj\x86\Debug\LINQ2SQLDebug.Form1.resources
+C:\Temp\LINQ2SQLDebug\LINQ2SQLDebug\obj\x86\Debug\LINQ2SQLDebug.Properties.Resources.resources
+C:\Temp\LINQ2SQLDebug\LINQ2SQLDebug\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Temp\LINQ2SQLDebug\LINQ2SQLDebug\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Temp\LINQ2SQLDebug\LINQ2SQLDebug\obj\x86\Debug\LINQ2SQLDebug.exe
+C:\Temp\LINQ2SQLDebug\LINQ2SQLDebug\obj\x86\Debug\LINQ2SQLDebug.pdb

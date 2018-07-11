@@ -1,0 +1,14 @@
+C:\temp\EmployeeCRUD\EmployeeCRUD\bin\Debug\EmployeeCRUD.exe.config
+C:\temp\EmployeeCRUD\EmployeeCRUD\bin\Debug\EmployeeCRUD.exe
+C:\temp\EmployeeCRUD\EmployeeCRUD\bin\Debug\EmployeeCRUD.pdb
+C:\temp\EmployeeCRUD\EmployeeCRUD\bin\Debug\EntityFramework.dll
+C:\temp\EmployeeCRUD\EmployeeCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\temp\EmployeeCRUD\EmployeeCRUD\bin\Debug\EntityFramework.xml
+C:\temp\EmployeeCRUD\EmployeeCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\temp\EmployeeCRUD\EmployeeCRUD\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\temp\EmployeeCRUD\EmployeeCRUD\obj\Debug\EmployeeCRUD.csprojResolveAssemblyReference.cache
+C:\temp\EmployeeCRUD\EmployeeCRUD\obj\Debug\EmployeeCRUD.Form1.resources
+C:\temp\EmployeeCRUD\EmployeeCRUD\obj\Debug\EmployeeCRUD.Properties.Resources.resources
+C:\temp\EmployeeCRUD\EmployeeCRUD\obj\Debug\EmployeeCRUD.csproj.GenerateResource.Cache
+C:\temp\EmployeeCRUD\EmployeeCRUD\obj\Debug\EmployeeCRUD.exe
+C:\temp\EmployeeCRUD\EmployeeCRUD\obj\Debug\EmployeeCRUD.pdb

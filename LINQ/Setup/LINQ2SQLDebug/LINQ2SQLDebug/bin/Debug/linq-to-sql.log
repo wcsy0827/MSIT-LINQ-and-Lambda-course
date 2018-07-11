@@ -1,0 +1,17 @@
+SELECT TOP (1) [t0].[OrderID], [t0].[ProductID], [t0].[UnitPrice], [t0].[Quantity], [t0].[Discount]
+FROM [dbo].[Order Details] AS [t0]
+WHERE [t0].[OrderID] = @p0
+-- @p0: Input Int (Size = -1; Prec = 0; Scale = 0) [10248]
+-- Context: SqlProvider(Sql2008) Model: AttributedMetaModel Build: 4.0.30319.1
+
+UPDATE [dbo].[Order Details]
+SET [UnitPrice] = @p5
+WHERE ([OrderID] = @p0) AND ([ProductID] = @p1) AND ([UnitPrice] = @p2) AND ([Quantity] = @p3) AND ([Discount] = @p4)
+-- @p0: Input Int (Size = -1; Prec = 0; Scale = 0) [10248]
+-- @p1: Input Int (Size = -1; Prec = 0; Scale = 0) [11]
+-- @p2: Input Money (Size = -1; Prec = 19; Scale = 4) [14.0000]
+-- @p3: Input SmallInt (Size = -1; Prec = 0; Scale = 0) [12]
+-- @p4: Input Real (Size = -1; Prec = 0; Scale = 0) [0]
+-- @p5: Input Money (Size = -1; Prec = 19; Scale = 4) [100]
+-- Context: SqlProvider(Sql2008) Model: AttributedMetaModel Build: 4.0.30319.1
+

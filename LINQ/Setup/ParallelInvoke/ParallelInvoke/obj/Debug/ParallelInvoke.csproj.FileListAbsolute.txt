@@ -1,0 +1,12 @@
+C:\temp\ParallelInvoke\ParallelInvoke\bin\Debug\ParallelTask.exe.config
+C:\temp\ParallelInvoke\ParallelInvoke\obj\Debug\ParallelTask.exe
+C:\temp\ParallelInvoke\ParallelInvoke\obj\Debug\ParallelTask.pdb
+C:\temp\ParallelInvoke\ParallelInvoke\bin\Debug\ParallelTask.exe
+C:\temp\ParallelInvoke\ParallelInvoke\bin\Debug\ParallelTask.pdb
+C:\temp\ParallelInvoke\ParallelInvoke\obj\Debug\ParallelInvoke.csprojResolveAssemblyReference.cache
+C:\temp\ParallelInvoke\ParallelInvoke\obj\Debug\ParallelTask.Form1.resources
+C:\temp\ParallelInvoke\ParallelInvoke\obj\Debug\ParallelTask.Properties.Resources.resources
+C:\temp\ParallelInvoke\ParallelInvoke\obj\Debug\ParallelInvoke.csproj.GenerateResource.Cache
+\\192.168.35.9\Setup\ParallelInvoke\ParallelInvoke\bin\Debug\ParallelTask.exe.config
+\\192.168.35.9\Setup\ParallelInvoke\ParallelInvoke\obj\Debug\ParallelTask.exe
+\\192.168.35.9\Setup\ParallelInvoke\ParallelInvoke\obj\Debug\ParallelTask.pdb

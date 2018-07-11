@@ -1,0 +1,9 @@
+C:\temp\ParallelTask\ParallelTask\bin\Debug\ParallelTask.exe.config
+C:\temp\ParallelTask\ParallelTask\bin\Debug\ParallelTask.exe
+C:\temp\ParallelTask\ParallelTask\bin\Debug\ParallelTask.pdb
+C:\temp\ParallelTask\ParallelTask\obj\Debug\ParallelTask.csprojResolveAssemblyReference.cache
+C:\temp\ParallelTask\ParallelTask\obj\Debug\ParallelTask.Form1.resources
+C:\temp\ParallelTask\ParallelTask\obj\Debug\ParallelTask.Properties.Resources.resources
+C:\temp\ParallelTask\ParallelTask\obj\Debug\ParallelTask.csproj.GenerateResource.Cache
+C:\temp\ParallelTask\ParallelTask\obj\Debug\ParallelTask.exe
+C:\temp\ParallelTask\ParallelTask\obj\Debug\ParallelTask.pdb

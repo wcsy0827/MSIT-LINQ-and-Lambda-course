@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LINQWhereNot\bin\Release\LINQWhereNot.exe.config
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LINQWhereNot\bin\Release\LINQWhereNot.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LINQWhereNot\bin\Release\LINQWhereNot.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LINQWhereNot\bin\Release\LINQWhereNot.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LINQWhereNot\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LINQWhereNot\obj\Release\LINQWhereNot.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LINQWhereNot\obj\Release\LINQWhereNot.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LINQWhereNot\obj\Release\LINQWhereNot.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LINQWhereNot\obj\Release\LINQWhereNot.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LINQWhereNot\obj\Release\LINQWhereNot.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\LINQWhereNot\obj\Release\LINQWhereNot.pdb
+C:\temp\VB\LINQWhereNot\LINQWhereNot\bin\Release\LINQWhereNot.exe.config
+C:\temp\VB\LINQWhereNot\LINQWhereNot\obj\Release\LINQWhereNot.exe
+C:\temp\VB\LINQWhereNot\LINQWhereNot\obj\Release\LINQWhereNot.xml
+C:\temp\VB\LINQWhereNot\LINQWhereNot\obj\Release\LINQWhereNot.pdb
+C:\temp\VB\LINQWhereNot\LINQWhereNot\bin\Release\LINQWhereNot.exe
+C:\temp\VB\LINQWhereNot\LINQWhereNot\bin\Release\LINQWhereNot.pdb
+C:\temp\VB\LINQWhereNot\LINQWhereNot\bin\Release\LINQWhereNot.xml
+C:\temp\VB\LINQWhereNot\LINQWhereNot\obj\Release\ResolveAssemblyReference.cache
+C:\temp\VB\LINQWhereNot\LINQWhereNot\obj\Release\LINQWhereNot.Form1.resources
+C:\temp\VB\LINQWhereNot\LINQWhereNot\obj\Release\LINQWhereNot.Resources.resources
+C:\temp\VB\LINQWhereNot\LINQWhereNot\obj\Release\LINQWhereNot.vbproj.GenerateResource.Cache

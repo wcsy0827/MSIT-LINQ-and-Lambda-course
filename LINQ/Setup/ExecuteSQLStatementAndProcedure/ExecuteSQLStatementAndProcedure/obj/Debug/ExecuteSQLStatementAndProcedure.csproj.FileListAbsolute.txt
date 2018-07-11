@@ -1,0 +1,3 @@
+C:\temp\ExecuteSQLStatementAndProcedure\ExecuteSQLStatementAndProcedure\bin\Debug\ExecuteSQLProcedure.exe.config
+C:\temp\ExecuteSQLStatementAndProcedure\ExecuteSQLStatementAndProcedure\obj\Debug\ExecuteSQLProcedure.exe
+C:\temp\ExecuteSQLStatementAndProcedure\ExecuteSQLStatementAndProcedure\obj\Debug\ExecuteSQLProcedure.pdb

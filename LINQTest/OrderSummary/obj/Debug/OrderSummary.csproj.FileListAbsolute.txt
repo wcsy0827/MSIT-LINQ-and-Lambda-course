@@ -1,0 +1,16 @@
+D:\LINQTest\LINQTest\OrderSummary\bin\Debug\OrderSummary.exe.config
+D:\LINQTest\LINQTest\OrderSummary\bin\Debug\OrderSummary.exe
+D:\LINQTest\LINQTest\OrderSummary\bin\Debug\OrderSummary.pdb
+D:\LINQTest\LINQTest\OrderSummary\bin\Debug\EntityFramework.dll
+D:\LINQTest\LINQTest\OrderSummary\bin\Debug\EntityFramework.SqlServer.dll
+D:\LINQTest\LINQTest\OrderSummary\bin\Debug\EntityFramework.xml
+D:\LINQTest\LINQTest\OrderSummary\bin\Debug\EntityFramework.SqlServer.xml
+D:\LINQTest\LINQTest\OrderSummary\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\LINQTest\LINQTest\OrderSummary\obj\Debug\OrderSummary.FrmOrderSummary.resources
+D:\LINQTest\LINQTest\OrderSummary\obj\Debug\OrderSummary.Properties.Resources.resources
+D:\LINQTest\LINQTest\OrderSummary\obj\Debug\OrderSummary.csproj.GenerateResource.cache
+D:\LINQTest\LINQTest\OrderSummary\obj\Debug\OrderSummary.csproj.CoreCompileInputs.cache
+D:\LINQTest\LINQTest\OrderSummary\obj\Debug\OrderSummary.csproj.CopyComplete
+D:\LINQTest\LINQTest\OrderSummary\obj\Debug\OrderSummary.exe
+D:\LINQTest\LINQTest\OrderSummary\obj\Debug\OrderSummary.pdb
+D:\LINQTest\LINQTest\OrderSummary\obj\Debug\OrderSummary.csprojAssemblyReference.cache

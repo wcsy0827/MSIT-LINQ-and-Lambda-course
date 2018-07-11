@@ -1,0 +1,14 @@
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\bin\Debug\ExecuteSQLProcedure.exe.config
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\bin\Debug\ExecuteSQLProcedure.exe
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\bin\Debug\ExecuteSQLProcedure.pdb
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\bin\Debug\EntityFramework.dll
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\bin\Debug\EntityFramework.SqlServer.dll
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\bin\Debug\EntityFramework.xml
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\bin\Debug\EntityFramework.SqlServer.xml
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\obj\Debug\ExecuteSQLProcedure.csprojResolveAssemblyReference.cache
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\obj\Debug\ExecuteSQLProcedure.Form1.resources
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\obj\Debug\ExecuteSQLProcedure.Properties.Resources.resources
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\obj\Debug\ExecuteSQLProcedure.csproj.GenerateResource.Cache
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\obj\Debug\ExecuteSQLProcedure.exe
+C:\temp\ExecuteSQLProcedure\ExecuteSQLProcedure\obj\Debug\ExecuteSQLProcedure.pdb

@@ -1,0 +1,16 @@
+D:\LINQTest\LINQTest\frmChartTest\bin\Debug\frmChartTest.exe.config
+D:\LINQTest\LINQTest\frmChartTest\bin\Debug\frmChartTest.exe
+D:\LINQTest\LINQTest\frmChartTest\bin\Debug\frmChartTest.pdb
+D:\LINQTest\LINQTest\frmChartTest\bin\Debug\EntityFramework.dll
+D:\LINQTest\LINQTest\frmChartTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\LINQTest\LINQTest\frmChartTest\bin\Debug\EntityFramework.xml
+D:\LINQTest\LINQTest\frmChartTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\LINQTest\LINQTest\frmChartTest\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\LINQTest\LINQTest\frmChartTest\obj\Debug\frmChartTest.csprojAssemblyReference.cache
+D:\LINQTest\LINQTest\frmChartTest\obj\Debug\frmChartTest.Form1.resources
+D:\LINQTest\LINQTest\frmChartTest\obj\Debug\frmChartTest.Properties.Resources.resources
+D:\LINQTest\LINQTest\frmChartTest\obj\Debug\frmChartTest.csproj.GenerateResource.cache
+D:\LINQTest\LINQTest\frmChartTest\obj\Debug\frmChartTest.csproj.CoreCompileInputs.cache
+D:\LINQTest\LINQTest\frmChartTest\obj\Debug\frmChartTest.csproj.CopyComplete
+D:\LINQTest\LINQTest\frmChartTest\obj\Debug\frmChartTest.exe
+D:\LINQTest\LINQTest\frmChartTest\obj\Debug\frmChartTest.pdb

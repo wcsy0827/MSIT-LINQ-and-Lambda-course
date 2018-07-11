@@ -1,0 +1,16 @@
+D:\LINQTest\LINQTest\LINQTest2\bin\Debug\LINQTest2.exe.config
+D:\LINQTest\LINQTest\LINQTest2\bin\Debug\LINQTest2.exe
+D:\LINQTest\LINQTest\LINQTest2\bin\Debug\LINQTest2.pdb
+D:\LINQTest\LINQTest\LINQTest2\bin\Debug\EntityFramework.dll
+D:\LINQTest\LINQTest\LINQTest2\bin\Debug\EntityFramework.SqlServer.dll
+D:\LINQTest\LINQTest\LINQTest2\bin\Debug\EntityFramework.xml
+D:\LINQTest\LINQTest\LINQTest2\bin\Debug\EntityFramework.SqlServer.xml
+D:\LINQTest\LINQTest\LINQTest2\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\LINQTest\LINQTest\LINQTest2\obj\Debug\LINQTest2.csprojAssemblyReference.cache
+D:\LINQTest\LINQTest\LINQTest2\obj\Debug\LINQTest2.Properties.Resources.resources
+D:\LINQTest\LINQTest\LINQTest2\obj\Debug\LINQTest2.csproj.GenerateResource.cache
+D:\LINQTest\LINQTest\LINQTest2\obj\Debug\LINQTest2.csproj.CoreCompileInputs.cache
+D:\LINQTest\LINQTest\LINQTest2\obj\Debug\LINQTest2.csproj.CopyComplete
+D:\LINQTest\LINQTest\LINQTest2\obj\Debug\LINQTest2.exe
+D:\LINQTest\LINQTest\LINQTest2\obj\Debug\LINQTest2.pdb
+D:\LINQTest\LINQTest\LINQTest2\obj\Debug\LINQTest2.Test2.resources

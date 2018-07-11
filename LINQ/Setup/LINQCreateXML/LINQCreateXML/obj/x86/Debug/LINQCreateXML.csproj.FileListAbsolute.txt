@@ -1,0 +1,10 @@
+H:\Data\tihs\mine\Course\補充資料\LINQCreateXML\LINQCreateXML\bin\Debug\LINQCreateXML.exe.config
+H:\Data\tihs\mine\Course\補充資料\LINQCreateXML\LINQCreateXML\bin\Debug\LINQCreateXML.exe
+H:\Data\tihs\mine\Course\補充資料\LINQCreateXML\LINQCreateXML\bin\Debug\LINQCreateXML.pdb
+H:\Data\tihs\mine\Course\補充資料\LINQCreateXML\LINQCreateXML\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Data\tihs\mine\Course\補充資料\LINQCreateXML\LINQCreateXML\obj\x86\Debug\LINQCreateXML.Form1.resources
+H:\Data\tihs\mine\Course\補充資料\LINQCreateXML\LINQCreateXML\obj\x86\Debug\LINQCreateXML.Properties.Resources.resources
+H:\Data\tihs\mine\Course\補充資料\LINQCreateXML\LINQCreateXML\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Data\tihs\mine\Course\補充資料\LINQCreateXML\LINQCreateXML\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Data\tihs\mine\Course\補充資料\LINQCreateXML\LINQCreateXML\obj\x86\Debug\LINQCreateXML.exe
+H:\Data\tihs\mine\Course\補充資料\LINQCreateXML\LINQCreateXML\obj\x86\Debug\LINQCreateXML.pdb

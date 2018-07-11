@@ -1,0 +1,1 @@
+F:\LINQ\LINQWhereNot(VB)\LINQWhereNot\bin\Debug\LINQWhereNot.exe.config

@@ -1,0 +1,5658 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer id="ALFKI" country="Germany" contactName="Maria Anders" contactTitle="Sales Representative">
+    <Orders id="10643" date="1997-08-25T00:00:00">
+      <items>
+        <item price="45.6000" quantity="15" />
+        <item price="18.0000" quantity="21" />
+        <item price="12.0000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10692" date="1997-10-03T00:00:00">
+      <items>
+        <item price="43.9000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10702" date="1997-10-13T00:00:00">
+      <items>
+        <item price="10.0000" quantity="6" />
+        <item price="18.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10835" date="1998-01-15T00:00:00">
+      <items>
+        <item price="55.0000" quantity="15" />
+        <item price="13.0000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10952" date="1998-03-16T00:00:00">
+      <items>
+        <item price="25.0000" quantity="16" />
+        <item price="45.6000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="11011" date="1998-04-09T00:00:00">
+      <items>
+        <item price="13.2500" quantity="40" />
+        <item price="21.5000" quantity="20" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="ANATR" country="Mexico" contactName="Ana Trujillo" contactTitle="Owner">
+    <Orders id="10308" date="1996-09-18T00:00:00">
+      <items>
+        <item price="28.8000" quantity="1" />
+        <item price="12.0000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10625" date="1997-08-08T00:00:00">
+      <items>
+        <item price="23.2500" quantity="3" />
+        <item price="14.0000" quantity="5" />
+        <item price="34.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10759" date="1997-11-28T00:00:00">
+      <items>
+        <item price="32.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10926" date="1998-03-04T00:00:00">
+      <items>
+        <item price="21.0000" quantity="2" />
+        <item price="6.0000" quantity="10" />
+        <item price="9.2000" quantity="7" />
+        <item price="34.8000" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="ANTON" country="Mexico" contactName="Antonio Moreno" contactTitle="Owner">
+    <Orders id="10365" date="1996-11-27T00:00:00">
+      <items>
+        <item price="16.8000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10507" date="1997-04-15T00:00:00">
+      <items>
+        <item price="46.0000" quantity="15" />
+        <item price="12.7500" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10535" date="1997-05-13T00:00:00">
+      <items>
+        <item price="21.0000" quantity="50" />
+        <item price="18.4000" quantity="10" />
+        <item price="19.5000" quantity="5" />
+        <item price="55.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10573" date="1997-06-19T00:00:00">
+      <items>
+        <item price="39.0000" quantity="18" />
+        <item price="14.0000" quantity="40" />
+        <item price="32.8000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10677" date="1997-09-22T00:00:00">
+      <items>
+        <item price="31.2300" quantity="30" />
+        <item price="2.5000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10682" date="1997-09-25T00:00:00">
+      <items>
+        <item price="2.5000" quantity="30" />
+        <item price="17.0000" quantity="4" />
+        <item price="7.7500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10856" date="1998-01-28T00:00:00">
+      <items>
+        <item price="19.0000" quantity="20" />
+        <item price="14.0000" quantity="20" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="AROUT" country="UK" contactName="Thomas Hardy" contactTitle="Sales Representative">
+    <Orders id="10355" date="1996-11-15T00:00:00">
+      <items>
+        <item price="3.6000" quantity="25" />
+        <item price="15.6000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10383" date="1996-12-16T00:00:00">
+      <items>
+        <item price="4.8000" quantity="20" />
+        <item price="13.0000" quantity="15" />
+        <item price="30.4000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10453" date="1997-02-21T00:00:00">
+      <items>
+        <item price="10.2000" quantity="15" />
+        <item price="12.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10558" date="1997-06-04T00:00:00">
+      <items>
+        <item price="9.5000" quantity="25" />
+        <item price="53.0000" quantity="20" />
+        <item price="7.0000" quantity="30" />
+        <item price="32.8000" quantity="18" />
+        <item price="15.0000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10707" date="1997-10-16T00:00:00">
+      <items>
+        <item price="24.0000" quantity="21" />
+        <item price="19.5000" quantity="40" />
+        <item price="15.0000" quantity="28" />
+      </items>
+    </Orders>
+    <Orders id="10741" date="1997-11-14T00:00:00">
+      <items>
+        <item price="19.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10743" date="1997-11-17T00:00:00">
+      <items>
+        <item price="12.0000" quantity="28" />
+      </items>
+    </Orders>
+    <Orders id="10768" date="1997-12-08T00:00:00">
+      <items>
+        <item price="21.0000" quantity="4" />
+        <item price="12.5000" quantity="50" />
+        <item price="34.0000" quantity="15" />
+        <item price="21.5000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10793" date="1997-12-24T00:00:00">
+      <items>
+        <item price="9.6500" quantity="14" />
+        <item price="7.0000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10864" date="1998-02-02T00:00:00">
+      <items>
+        <item price="18.0000" quantity="4" />
+        <item price="14.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10920" date="1998-03-03T00:00:00">
+      <items>
+        <item price="16.2500" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10953" date="1998-03-16T00:00:00">
+      <items>
+        <item price="81.0000" quantity="50" />
+        <item price="12.5000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="11016" date="1998-04-10T00:00:00">
+      <items>
+        <item price="12.5000" quantity="15" />
+        <item price="19.0000" quantity="16" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="BERGS" country="Sweden" contactName="Christina Berglund" contactTitle="Order Administrator">
+    <Orders id="10278" date="1996-08-12T00:00:00">
+      <items>
+        <item price="15.5000" quantity="16" />
+        <item price="44.0000" quantity="15" />
+        <item price="35.1000" quantity="8" />
+        <item price="12.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10280" date="1996-08-14T00:00:00">
+      <items>
+        <item price="3.6000" quantity="12" />
+        <item price="19.2000" quantity="20" />
+        <item price="6.2000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10384" date="1996-12-16T00:00:00">
+      <items>
+        <item price="64.8000" quantity="28" />
+        <item price="27.2000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10444" date="1997-02-12T00:00:00">
+      <items>
+        <item price="31.2000" quantity="10" />
+        <item price="24.9000" quantity="15" />
+        <item price="14.4000" quantity="8" />
+        <item price="7.7000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10445" date="1997-02-13T00:00:00">
+      <items>
+        <item price="14.4000" quantity="6" />
+        <item price="5.9000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10524" date="1997-05-01T00:00:00">
+      <items>
+        <item price="31.0000" quantity="2" />
+        <item price="25.8900" quantity="10" />
+        <item price="46.0000" quantity="60" />
+        <item price="7.4500" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10572" date="1997-06-18T00:00:00">
+      <items>
+        <item price="17.4500" quantity="12" />
+        <item price="32.0000" quantity="10" />
+        <item price="18.4000" quantity="50" />
+        <item price="7.7500" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10626" date="1997-08-11T00:00:00">
+      <items>
+        <item price="32.8000" quantity="12" />
+        <item price="34.0000" quantity="20" />
+        <item price="21.5000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10654" date="1997-09-02T00:00:00">
+      <items>
+        <item price="22.0000" quantity="12" />
+        <item price="18.0000" quantity="20" />
+        <item price="7.4500" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10672" date="1997-09-17T00:00:00">
+      <items>
+        <item price="263.5000" quantity="15" />
+        <item price="21.5000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10689" date="1997-10-01T00:00:00">
+      <items>
+        <item price="18.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10733" date="1997-11-07T00:00:00">
+      <items>
+        <item price="23.2500" quantity="16" />
+        <item price="45.6000" quantity="20" />
+        <item price="7.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10778" date="1997-12-16T00:00:00">
+      <items>
+        <item price="9.6500" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10837" date="1998-01-16T00:00:00">
+      <items>
+        <item price="6.0000" quantity="6" />
+        <item price="18.4000" quantity="25" />
+        <item price="9.5000" quantity="40" />
+        <item price="18.0000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10857" date="1998-01-28T00:00:00">
+      <items>
+        <item price="10.0000" quantity="30" />
+        <item price="31.2300" quantity="35" />
+        <item price="123.7900" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10866" date="1998-02-03T00:00:00">
+      <items>
+        <item price="19.0000" quantity="21" />
+        <item price="4.5000" quantity="6" />
+        <item price="25.8900" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10875" date="1998-02-06T00:00:00">
+      <items>
+        <item price="9.2000" quantity="25" />
+        <item price="9.5000" quantity="21" />
+        <item price="20.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10924" date="1998-03-04T00:00:00">
+      <items>
+        <item price="31.0000" quantity="20" />
+        <item price="45.6000" quantity="30" />
+        <item price="7.7500" quantity="6" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="BLAUS" country="Germany" contactName="Hanna Moos" contactTitle="Sales Representative">
+    <Orders id="10501" date="1997-04-09T00:00:00">
+      <items>
+        <item price="7.4500" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10509" date="1997-04-17T00:00:00">
+      <items>
+        <item price="45.6000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10582" date="1997-06-27T00:00:00">
+      <items>
+        <item price="19.5000" quantity="4" />
+        <item price="18.0000" quantity="14" />
+      </items>
+    </Orders>
+    <Orders id="10614" date="1997-07-29T00:00:00">
+      <items>
+        <item price="21.0000" quantity="14" />
+        <item price="10.0000" quantity="8" />
+        <item price="18.0000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10853" date="1998-01-27T00:00:00">
+      <items>
+        <item price="62.5000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10956" date="1998-03-17T00:00:00">
+      <items>
+        <item price="10.0000" quantity="12" />
+        <item price="9.5000" quantity="14" />
+        <item price="53.0000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="11058" date="1998-04-29T00:00:00">
+      <items>
+        <item price="10.0000" quantity="3" />
+        <item price="34.0000" quantity="21" />
+        <item price="28.5000" quantity="4" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="BLONP" country="France" contactName="Frederique Citeaux" contactTitle="Marketing Manager">
+    <Orders id="10265" date="1996-07-25T00:00:00">
+      <items>
+        <item price="31.2000" quantity="30" />
+        <item price="12.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10297" date="1996-09-04T00:00:00">
+      <items>
+        <item price="14.4000" quantity="60" />
+        <item price="27.8000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10360" date="1996-11-22T00:00:00">
+      <items>
+        <item price="36.4000" quantity="30" />
+        <item price="99.0000" quantity="35" />
+        <item price="210.8000" quantity="10" />
+        <item price="16.0000" quantity="35" />
+        <item price="5.9000" quantity="28" />
+      </items>
+    </Orders>
+    <Orders id="10436" date="1997-02-05T00:00:00">
+      <items>
+        <item price="9.6000" quantity="5" />
+        <item price="30.4000" quantity="40" />
+        <item price="26.6000" quantity="30" />
+        <item price="6.2000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10449" date="1997-02-18T00:00:00">
+      <items>
+        <item price="24.8000" quantity="14" />
+        <item price="5.6000" quantity="20" />
+        <item price="39.4000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10559" date="1997-06-05T00:00:00">
+      <items>
+        <item price="9.6500" quantity="12" />
+        <item price="24.0000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10566" date="1997-06-12T00:00:00">
+      <items>
+        <item price="21.0000" quantity="35" />
+        <item price="62.5000" quantity="18" />
+        <item price="18.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10584" date="1997-06-30T00:00:00">
+      <items>
+        <item price="12.5000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10628" date="1997-08-12T00:00:00">
+      <items>
+        <item price="18.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10679" date="1997-09-23T00:00:00">
+      <items>
+        <item price="55.0000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10826" date="1998-01-12T00:00:00">
+      <items>
+        <item price="12.5000" quantity="35" />
+        <item price="19.5000" quantity="15" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="BOLID" country="Spain" contactName="Martin Sommer" contactTitle="Owner">
+    <Orders id="10326" date="1996-10-10T00:00:00">
+      <items>
+        <item price="17.6000" quantity="24" />
+        <item price="15.6000" quantity="16" />
+        <item price="6.2000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10801" date="1997-12-29T00:00:00">
+      <items>
+        <item price="39.0000" quantity="40" />
+        <item price="123.7900" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10970" date="1998-03-24T00:00:00">
+      <items>
+        <item price="7.0000" quantity="40" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="BONAP" country="France" contactName="Laurence Lebihan" contactTitle="Owner">
+    <Orders id="10331" date="1996-10-16T00:00:00">
+      <items>
+        <item price="5.9000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10340" date="1996-10-29T00:00:00">
+      <items>
+        <item price="50.0000" quantity="20" />
+        <item price="7.7000" quantity="12" />
+        <item price="36.8000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10362" date="1996-11-25T00:00:00">
+      <items>
+        <item price="11.2000" quantity="50" />
+        <item price="42.4000" quantity="20" />
+        <item price="5.9000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10470" date="1997-03-11T00:00:00">
+      <items>
+        <item price="50.0000" quantity="30" />
+        <item price="7.2000" quantity="15" />
+        <item price="26.6000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10511" date="1997-04-18T00:00:00">
+      <items>
+        <item price="22.0000" quantity="50" />
+        <item price="30.0000" quantity="50" />
+        <item price="40.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10525" date="1997-05-02T00:00:00">
+      <items>
+        <item price="19.0000" quantity="30" />
+        <item price="18.4000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10663" date="1997-09-10T00:00:00">
+      <items>
+        <item price="18.4000" quantity="30" />
+        <item price="14.0000" quantity="30" />
+        <item price="53.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10715" date="1997-10-23T00:00:00">
+      <items>
+        <item price="31.0000" quantity="21" />
+        <item price="21.5000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10730" date="1997-11-05T00:00:00">
+      <items>
+        <item price="17.4500" quantity="15" />
+        <item price="12.5000" quantity="3" />
+        <item price="21.0500" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10732" date="1997-11-06T00:00:00">
+      <items>
+        <item price="18.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10755" date="1997-11-26T00:00:00">
+      <items>
+        <item price="9.5000" quantity="30" />
+        <item price="38.0000" quantity="30" />
+        <item price="19.5000" quantity="14" />
+        <item price="36.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10827" date="1998-01-12T00:00:00">
+      <items>
+        <item price="31.0000" quantity="15" />
+        <item price="18.0000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10871" date="1998-02-05T00:00:00">
+      <items>
+        <item price="25.0000" quantity="50" />
+        <item price="17.4500" quantity="12" />
+        <item price="39.0000" quantity="16" />
+      </items>
+    </Orders>
+    <Orders id="10876" date="1998-02-09T00:00:00">
+      <items>
+        <item price="12.0000" quantity="21" />
+        <item price="33.2500" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10932" date="1998-03-06T00:00:00">
+      <items>
+        <item price="17.4500" quantity="30" />
+        <item price="49.3000" quantity="14" />
+        <item price="34.8000" quantity="16" />
+        <item price="7.7500" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10940" date="1998-03-11T00:00:00">
+      <items>
+        <item price="30.0000" quantity="8" />
+        <item price="6.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11076" date="1998-05-06T00:00:00">
+      <items>
+        <item price="25.0000" quantity="20" />
+        <item price="23.2500" quantity="20" />
+        <item price="9.2000" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="BOTTM" country="Canada" contactName="Elizabeth Lincoln" contactTitle="Accounting Manager">
+    <Orders id="10389" date="1996-12-20T00:00:00">
+      <items>
+        <item price="24.8000" quantity="16" />
+        <item price="19.2000" quantity="15" />
+        <item price="39.4000" quantity="20" />
+        <item price="12.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10410" date="1997-01-10T00:00:00">
+      <items>
+        <item price="2.0000" quantity="49" />
+        <item price="44.0000" quantity="16" />
+      </items>
+    </Orders>
+    <Orders id="10411" date="1997-01-10T00:00:00">
+      <items>
+        <item price="7.7000" quantity="25" />
+        <item price="15.5000" quantity="40" />
+        <item price="44.0000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10431" date="1997-01-30T00:00:00">
+      <items>
+        <item price="31.2000" quantity="50" />
+        <item price="14.7000" quantity="50" />
+        <item price="7.6000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10492" date="1997-04-01T00:00:00">
+      <items>
+        <item price="11.2000" quantity="60" />
+        <item price="11.2000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10742" date="1997-11-14T00:00:00">
+      <items>
+        <item price="10.0000" quantity="20" />
+        <item price="34.0000" quantity="50" />
+        <item price="34.8000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10918" date="1998-03-02T00:00:00">
+      <items>
+        <item price="18.0000" quantity="60" />
+        <item price="34.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10944" date="1998-03-12T00:00:00">
+      <items>
+        <item price="21.0000" quantity="5" />
+        <item price="19.4500" quantity="18" />
+        <item price="38.0000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10949" date="1998-03-13T00:00:00">
+      <items>
+        <item price="25.0000" quantity="12" />
+        <item price="31.0000" quantity="30" />
+        <item price="39.0000" quantity="6" />
+        <item price="49.3000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10975" date="1998-03-25T00:00:00">
+      <items>
+        <item price="40.0000" quantity="16" />
+        <item price="7.7500" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10982" date="1998-03-27T00:00:00">
+      <items>
+        <item price="30.0000" quantity="20" />
+        <item price="46.0000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="11027" date="1998-04-16T00:00:00">
+      <items>
+        <item price="4.5000" quantity="30" />
+        <item price="49.3000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="11045" date="1998-04-23T00:00:00">
+      <items>
+        <item price="2.5000" quantity="15" />
+        <item price="53.0000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="11048" date="1998-04-24T00:00:00">
+      <items>
+        <item price="12.5000" quantity="42" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="BSBEV" country="UK" contactName="Victoria Ashworth" contactTitle="Sales Representative">
+    <Orders id="10289" date="1996-08-26T00:00:00">
+      <items>
+        <item price="8.0000" quantity="30" />
+        <item price="26.6000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10471" date="1997-03-11T00:00:00">
+      <items>
+        <item price="24.0000" quantity="30" />
+        <item price="30.4000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10484" date="1997-03-24T00:00:00">
+      <items>
+        <item price="8.0000" quantity="14" />
+        <item price="14.7000" quantity="10" />
+        <item price="42.4000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10538" date="1997-05-15T00:00:00">
+      <items>
+        <item price="15.0000" quantity="7" />
+        <item price="34.8000" quantity="1" />
+      </items>
+    </Orders>
+    <Orders id="10539" date="1997-05-16T00:00:00">
+      <items>
+        <item price="6.0000" quantity="8" />
+        <item price="10.0000" quantity="15" />
+        <item price="2.5000" quantity="15" />
+        <item price="20.0000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10578" date="1997-06-24T00:00:00">
+      <items>
+        <item price="18.0000" quantity="20" />
+        <item price="19.5000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10599" date="1997-07-15T00:00:00">
+      <items>
+        <item price="49.3000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10943" date="1998-03-11T00:00:00">
+      <items>
+        <item price="6.0000" quantity="15" />
+        <item price="21.0000" quantity="21" />
+        <item price="12.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10947" date="1998-03-13T00:00:00">
+      <items>
+        <item price="55.0000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="11023" date="1998-04-14T00:00:00">
+      <items>
+        <item price="30.0000" quantity="4" />
+        <item price="46.0000" quantity="30" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="CACTU" country="Argentina" contactName="Patricio Simpson" contactTitle="Sales Agent">
+    <Orders id="10521" date="1997-04-29T00:00:00">
+      <items>
+        <item price="18.0000" quantity="3" />
+        <item price="9.6500" quantity="10" />
+        <item price="12.5000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10782" date="1997-12-17T00:00:00">
+      <items>
+        <item price="12.5000" quantity="1" />
+      </items>
+    </Orders>
+    <Orders id="10819" date="1998-01-07T00:00:00">
+      <items>
+        <item price="46.0000" quantity="7" />
+        <item price="7.7500" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10881" date="1998-02-11T00:00:00">
+      <items>
+        <item price="15.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10937" date="1998-03-10T00:00:00">
+      <items>
+        <item price="45.6000" quantity="8" />
+        <item price="14.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11054" date="1998-04-28T00:00:00">
+      <items>
+        <item price="2.5000" quantity="10" />
+        <item price="14.0000" quantity="20" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="CENTC" country="Mexico" contactName="Francisco Chang" contactTitle="Marketing Manager">
+    <Orders id="10259" date="1996-07-18T00:00:00">
+      <items>
+        <item price="8.0000" quantity="10" />
+        <item price="20.8000" quantity="1" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="CHOPS" country="Switzerland" contactName="Yang Wang" contactTitle="Owner">
+    <Orders id="10254" date="1996-07-11T00:00:00">
+      <items>
+        <item price="3.6000" quantity="15" />
+        <item price="19.2000" quantity="21" />
+        <item price="8.0000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10370" date="1996-12-03T00:00:00">
+      <items>
+        <item price="14.4000" quantity="15" />
+        <item price="26.6000" quantity="30" />
+        <item price="8.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10519" date="1997-04-28T00:00:00">
+      <items>
+        <item price="31.0000" quantity="16" />
+        <item price="38.0000" quantity="40" />
+        <item price="34.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10731" date="1997-11-06T00:00:00">
+      <items>
+        <item price="10.0000" quantity="40" />
+        <item price="53.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10746" date="1997-11-19T00:00:00">
+      <items>
+        <item price="6.0000" quantity="6" />
+        <item price="14.0000" quantity="28" />
+        <item price="49.3000" quantity="9" />
+        <item price="36.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10966" date="1998-03-20T00:00:00">
+      <items>
+        <item price="26.0000" quantity="8" />
+        <item price="38.0000" quantity="12" />
+        <item price="49.3000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="11029" date="1998-04-16T00:00:00">
+      <items>
+        <item price="38.0000" quantity="20" />
+        <item price="43.9000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="11041" date="1998-04-22T00:00:00">
+      <items>
+        <item price="19.0000" quantity="30" />
+        <item price="43.9000" quantity="30" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="COMMI" country="Brazil" contactName="Pedro Afonso" contactTitle="Sales Associate">
+    <Orders id="10290" date="1996-08-27T00:00:00">
+      <items>
+        <item price="17.0000" quantity="20" />
+        <item price="99.0000" quantity="15" />
+        <item price="16.0000" quantity="15" />
+        <item price="10.4000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10466" date="1997-03-06T00:00:00">
+      <items>
+        <item price="16.8000" quantity="10" />
+        <item price="9.6000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10494" date="1997-04-02T00:00:00">
+      <items>
+        <item price="30.4000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10969" date="1998-03-23T00:00:00">
+      <items>
+        <item price="12.0000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="11042" date="1998-04-22T00:00:00">
+      <items>
+        <item price="19.4500" quantity="15" />
+        <item price="28.5000" quantity="4" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="CONSH" country="UK" contactName="Elizabeth Brown" contactTitle="Sales Representative">
+    <Orders id="10435" date="1997-02-04T00:00:00">
+      <items>
+        <item price="15.2000" quantity="10" />
+        <item price="16.8000" quantity="12" />
+        <item price="27.8000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10462" date="1997-03-03T00:00:00">
+      <items>
+        <item price="4.8000" quantity="1" />
+        <item price="7.2000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10848" date="1998-01-23T00:00:00">
+      <items>
+        <item price="21.3500" quantity="30" />
+        <item price="97.0000" quantity="3" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="DRACD" country="Germany" contactName="Sven Ottlieb" contactTitle="Order Administrator">
+    <Orders id="10363" date="1996-11-26T00:00:00">
+      <items>
+        <item price="10.0000" quantity="20" />
+        <item price="6.2000" quantity="12" />
+        <item price="14.4000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10391" date="1996-12-23T00:00:00">
+      <items>
+        <item price="4.8000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10797" date="1997-12-25T00:00:00">
+      <items>
+        <item price="21.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10825" date="1998-01-09T00:00:00">
+      <items>
+        <item price="31.2300" quantity="12" />
+        <item price="32.8000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11036" date="1998-04-20T00:00:00">
+      <items>
+        <item price="6.0000" quantity="7" />
+        <item price="55.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="11067" date="1998-05-04T00:00:00">
+      <items>
+        <item price="9.6500" quantity="9" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="DUMON" country="France" contactName="Janine Labrune" contactTitle="Owner">
+    <Orders id="10311" date="1996-09-20T00:00:00">
+      <items>
+        <item price="11.2000" quantity="6" />
+        <item price="28.8000" quantity="7" />
+      </items>
+    </Orders>
+    <Orders id="10609" date="1997-07-24T00:00:00">
+      <items>
+        <item price="18.0000" quantity="3" />
+        <item price="31.0000" quantity="10" />
+        <item price="10.0000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10683" date="1997-09-26T00:00:00">
+      <items>
+        <item price="7.0000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10890" date="1998-02-16T00:00:00">
+      <items>
+        <item price="39.0000" quantity="15" />
+        <item price="14.0000" quantity="10" />
+        <item price="9.6500" quantity="14" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="EASTC" country="UK" contactName="Ann Devon" contactTitle="Sales Agent">
+    <Orders id="10364" date="1996-11-26T00:00:00">
+      <items>
+        <item price="28.8000" quantity="30" />
+        <item price="17.2000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10400" date="1997-01-01T00:00:00">
+      <items>
+        <item price="99.0000" quantity="21" />
+        <item price="14.4000" quantity="35" />
+        <item price="16.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10532" date="1997-05-09T00:00:00">
+      <items>
+        <item price="25.8900" quantity="15" />
+        <item price="17.0000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10726" date="1997-11-03T00:00:00">
+      <items>
+        <item price="22.0000" quantity="25" />
+        <item price="21.0000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10987" date="1998-03-31T00:00:00">
+      <items>
+        <item price="30.0000" quantity="60" />
+        <item price="46.0000" quantity="6" />
+        <item price="34.8000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11024" date="1998-04-15T00:00:00">
+      <items>
+        <item price="31.2300" quantity="12" />
+        <item price="2.5000" quantity="30" />
+        <item price="21.0500" quantity="21" />
+        <item price="21.5000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="11047" date="1998-04-24T00:00:00">
+      <items>
+        <item price="18.0000" quantity="25" />
+        <item price="21.3500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="11056" date="1998-04-28T00:00:00">
+      <items>
+        <item price="30.0000" quantity="40" />
+        <item price="24.0000" quantity="35" />
+        <item price="34.0000" quantity="50" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="ERNSH" country="Austria" contactName="Roland Mendel" contactTitle="Sales Manager">
+    <Orders id="10258" date="1996-07-17T00:00:00">
+      <items>
+        <item price="15.2000" quantity="50" />
+        <item price="17.0000" quantity="65" />
+        <item price="25.6000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10263" date="1996-07-23T00:00:00">
+      <items>
+        <item price="13.9000" quantity="60" />
+        <item price="3.6000" quantity="28" />
+        <item price="20.7000" quantity="60" />
+        <item price="8.0000" quantity="36" />
+      </items>
+    </Orders>
+    <Orders id="10351" date="1996-11-11T00:00:00">
+      <items>
+        <item price="210.8000" quantity="20" />
+        <item price="7.7000" quantity="13" />
+        <item price="15.5000" quantity="77" />
+        <item price="16.8000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10368" date="1996-11-29T00:00:00">
+      <items>
+        <item price="8.0000" quantity="5" />
+        <item price="36.4000" quantity="13" />
+        <item price="15.6000" quantity="25" />
+        <item price="26.6000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10382" date="1996-12-13T00:00:00">
+      <items>
+        <item price="17.0000" quantity="32" />
+        <item price="50.0000" quantity="9" />
+        <item price="99.0000" quantity="14" />
+        <item price="2.0000" quantity="60" />
+        <item price="8.0000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10390" date="1996-12-23T00:00:00">
+      <items>
+        <item price="10.0000" quantity="60" />
+        <item price="14.4000" quantity="40" />
+        <item price="9.6000" quantity="45" />
+        <item price="27.8000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10402" date="1997-01-02T00:00:00">
+      <items>
+        <item price="7.2000" quantity="60" />
+        <item price="35.1000" quantity="65" />
+      </items>
+    </Orders>
+    <Orders id="10403" date="1997-01-03T00:00:00">
+      <items>
+        <item price="13.9000" quantity="21" />
+        <item price="10.2000" quantity="70" />
+      </items>
+    </Orders>
+    <Orders id="10430" date="1997-01-30T00:00:00">
+      <items>
+        <item price="31.2000" quantity="45" />
+        <item price="8.0000" quantity="50" />
+        <item price="30.4000" quantity="30" />
+        <item price="44.0000" quantity="70" />
+      </items>
+    </Orders>
+    <Orders id="10442" date="1997-02-11T00:00:00">
+      <items>
+        <item price="16.8000" quantity="30" />
+        <item price="5.9000" quantity="80" />
+        <item price="13.6000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10514" date="1997-04-22T00:00:00">
+      <items>
+        <item price="81.0000" quantity="39" />
+        <item price="45.6000" quantity="35" />
+        <item price="38.0000" quantity="70" />
+        <item price="21.0500" quantity="39" />
+        <item price="7.7500" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10571" date="1997-06-17T00:00:00">
+      <items>
+        <item price="23.2500" quantity="11" />
+        <item price="14.0000" quantity="28" />
+      </items>
+    </Orders>
+    <Orders id="10595" date="1997-07-10T00:00:00">
+      <items>
+        <item price="18.0000" quantity="30" />
+        <item price="28.5000" quantity="120" />
+        <item price="36.0000" quantity="65" />
+      </items>
+    </Orders>
+    <Orders id="10633" date="1997-08-15T00:00:00">
+      <items>
+        <item price="38.0000" quantity="36" />
+        <item price="6.0000" quantity="13" />
+        <item price="31.2300" quantity="35" />
+        <item price="49.3000" quantity="80" />
+      </items>
+    </Orders>
+    <Orders id="10667" date="1997-09-12T00:00:00">
+      <items>
+        <item price="36.0000" quantity="45" />
+        <item price="21.5000" quantity="14" />
+      </items>
+    </Orders>
+    <Orders id="10698" date="1997-10-09T00:00:00">
+      <items>
+        <item price="21.0000" quantity="15" />
+        <item price="39.0000" quantity="8" />
+        <item price="123.7900" quantity="12" />
+        <item price="21.0500" quantity="65" />
+        <item price="15.0000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10764" date="1997-12-03T00:00:00">
+      <items>
+        <item price="10.0000" quantity="20" />
+        <item price="18.0000" quantity="130" />
+      </items>
+    </Orders>
+    <Orders id="10771" date="1997-12-10T00:00:00">
+      <items>
+        <item price="21.5000" quantity="16" />
+      </items>
+    </Orders>
+    <Orders id="10773" date="1997-12-11T00:00:00">
+      <items>
+        <item price="39.0000" quantity="33" />
+        <item price="12.5000" quantity="70" />
+        <item price="7.7500" quantity="7" />
+      </items>
+    </Orders>
+    <Orders id="10776" date="1997-12-15T00:00:00">
+      <items>
+        <item price="12.5000" quantity="16" />
+        <item price="14.0000" quantity="12" />
+        <item price="9.5000" quantity="27" />
+        <item price="53.0000" quantity="120" />
+      </items>
+    </Orders>
+    <Orders id="10795" date="1997-12-24T00:00:00">
+      <items>
+        <item price="17.4500" quantity="65" />
+        <item price="39.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10836" date="1998-01-16T00:00:00">
+      <items>
+        <item price="21.0000" quantity="52" />
+        <item price="18.0000" quantity="6" />
+        <item price="19.5000" quantity="24" />
+        <item price="34.0000" quantity="60" />
+        <item price="33.2500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10854" date="1998-01-27T00:00:00">
+      <items>
+        <item price="31.0000" quantity="100" />
+        <item price="6.0000" quantity="65" />
+      </items>
+    </Orders>
+    <Orders id="10895" date="1998-02-18T00:00:00">
+      <items>
+        <item price="4.5000" quantity="110" />
+        <item price="18.0000" quantity="45" />
+        <item price="18.4000" quantity="91" />
+        <item price="34.0000" quantity="100" />
+      </items>
+    </Orders>
+    <Orders id="10968" date="1998-03-23T00:00:00">
+      <items>
+        <item price="38.0000" quantity="30" />
+        <item price="4.5000" quantity="30" />
+        <item price="33.2500" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10979" date="1998-03-26T00:00:00">
+      <items>
+        <item price="30.0000" quantity="18" />
+        <item price="38.0000" quantity="20" />
+        <item price="4.5000" quantity="80" />
+        <item price="43.9000" quantity="30" />
+        <item price="12.5000" quantity="24" />
+        <item price="43.9000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10990" date="1998-04-01T00:00:00">
+      <items>
+        <item price="10.0000" quantity="65" />
+        <item price="14.0000" quantity="60" />
+        <item price="24.0000" quantity="65" />
+        <item price="28.5000" quantity="66" />
+      </items>
+    </Orders>
+    <Orders id="11008" date="1998-04-08T00:00:00">
+      <items>
+        <item price="45.6000" quantity="70" />
+        <item price="14.0000" quantity="90" />
+        <item price="21.5000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="11017" date="1998-04-13T00:00:00">
+      <items>
+        <item price="10.0000" quantity="25" />
+        <item price="55.0000" quantity="110" />
+        <item price="15.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="11072" date="1998-05-05T00:00:00">
+      <items>
+        <item price="19.0000" quantity="8" />
+        <item price="9.6500" quantity="40" />
+        <item price="16.2500" quantity="22" />
+        <item price="33.2500" quantity="130" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="FAMIA" country="Brazil" contactName="Aria Cruz" contactTitle="Marketing Assistant">
+    <Orders id="10347" date="1996-11-06T00:00:00">
+      <items>
+        <item price="11.2000" quantity="10" />
+        <item price="14.4000" quantity="50" />
+        <item price="14.7000" quantity="4" />
+        <item price="6.2000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10386" date="1996-12-18T00:00:00">
+      <items>
+        <item price="3.6000" quantity="15" />
+        <item price="11.2000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10414" date="1997-01-14T00:00:00">
+      <items>
+        <item price="7.3000" quantity="18" />
+        <item price="2.0000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10512" date="1997-04-21T00:00:00">
+      <items>
+        <item price="4.5000" quantity="10" />
+        <item price="12.0000" quantity="9" />
+        <item price="9.5000" quantity="6" />
+        <item price="34.0000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10581" date="1997-06-26T00:00:00">
+      <items>
+        <item price="7.7500" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10650" date="1997-08-29T00:00:00">
+      <items>
+        <item price="25.8900" quantity="30" />
+        <item price="32.8000" quantity="25" />
+        <item price="7.4500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10725" date="1997-10-31T00:00:00">
+      <items>
+        <item price="9.6500" quantity="12" />
+        <item price="7.0000" quantity="4" />
+        <item price="24.0000" quantity="6" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="FISSA" country="Spain" contactName="Diego Roel" contactTitle="Accounting Manager" />
+  <Customer id="FOLIG" country="France" contactName="Martine Rance" contactTitle="Assistant Sales Agent">
+    <Orders id="10408" date="1997-01-08T00:00:00">
+      <items>
+        <item price="20.8000" quantity="10" />
+        <item price="5.9000" quantity="6" />
+        <item price="39.4000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10480" date="1997-03-20T00:00:00">
+      <items>
+        <item price="7.6000" quantity="30" />
+        <item price="44.0000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10634" date="1997-08-15T00:00:00">
+      <items>
+        <item price="30.0000" quantity="35" />
+        <item price="62.5000" quantity="50" />
+        <item price="53.0000" quantity="15" />
+        <item price="7.7500" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10763" date="1997-12-03T00:00:00">
+      <items>
+        <item price="10.0000" quantity="40" />
+        <item price="21.0000" quantity="6" />
+        <item price="4.5000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10789" date="1997-12-22T00:00:00">
+      <items>
+        <item price="62.5000" quantity="30" />
+        <item price="18.0000" quantity="15" />
+        <item price="43.9000" quantity="30" />
+        <item price="12.5000" quantity="18" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="FOLKO" country="Sweden" contactName="Maria Larsson" contactTitle="Owner">
+    <Orders id="10264" date="1996-07-24T00:00:00">
+      <items>
+        <item price="15.2000" quantity="35" />
+        <item price="7.7000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10327" date="1996-10-11T00:00:00">
+      <items>
+        <item price="15.2000" quantity="25" />
+        <item price="16.8000" quantity="50" />
+        <item price="20.7000" quantity="35" />
+        <item price="10.6000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10378" date="1996-12-10T00:00:00">
+      <items>
+        <item price="17.2000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10434" date="1997-02-03T00:00:00">
+      <items>
+        <item price="16.8000" quantity="6" />
+        <item price="14.4000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10460" date="1997-02-28T00:00:00">
+      <items>
+        <item price="10.0000" quantity="21" />
+        <item price="6.2000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10533" date="1997-05-12T00:00:00">
+      <items>
+        <item price="22.0000" quantity="50" />
+        <item price="34.8000" quantity="24" />
+        <item price="15.0000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10561" date="1997-06-06T00:00:00">
+      <items>
+        <item price="19.4500" quantity="10" />
+        <item price="53.0000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10703" date="1997-10-14T00:00:00">
+      <items>
+        <item price="19.0000" quantity="5" />
+        <item price="55.0000" quantity="35" />
+        <item price="15.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10762" date="1997-12-02T00:00:00">
+      <items>
+        <item price="18.0000" quantity="16" />
+        <item price="9.5000" quantity="30" />
+        <item price="53.0000" quantity="28" />
+        <item price="38.0000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10774" date="1997-12-11T00:00:00">
+      <items>
+        <item price="12.5000" quantity="2" />
+        <item price="17.0000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10824" date="1998-01-09T00:00:00">
+      <items>
+        <item price="9.6500" quantity="12" />
+        <item price="15.0000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10880" date="1998-02-10T00:00:00">
+      <items>
+        <item price="9.0000" quantity="30" />
+        <item price="28.5000" quantity="30" />
+        <item price="15.0000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10902" date="1998-02-23T00:00:00">
+      <items>
+        <item price="24.0000" quantity="30" />
+        <item price="49.3000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10955" date="1998-03-17T00:00:00">
+      <items>
+        <item price="7.7500" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10977" date="1998-03-26T00:00:00">
+      <items>
+        <item price="18.0000" quantity="30" />
+        <item price="9.5000" quantity="30" />
+        <item price="53.0000" quantity="10" />
+        <item price="43.9000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10980" date="1998-03-27T00:00:00">
+      <items>
+        <item price="7.7500" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10993" date="1998-04-01T00:00:00">
+      <items>
+        <item price="123.7900" quantity="50" />
+        <item price="9.6500" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="11001" date="1998-04-06T00:00:00">
+      <items>
+        <item price="30.0000" quantity="60" />
+        <item price="21.0000" quantity="25" />
+        <item price="12.0000" quantity="25" />
+        <item price="24.0000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="11050" date="1998-04-27T00:00:00">
+      <items>
+        <item price="18.0000" quantity="50" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="FRANK" country="Germany" contactName="Peter Franken" contactTitle="Marketing Manager">
+    <Orders id="10267" date="1996-07-29T00:00:00">
+      <items>
+        <item price="14.7000" quantity="50" />
+        <item price="44.0000" quantity="70" />
+        <item price="14.4000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10337" date="1996-10-24T00:00:00">
+      <items>
+        <item price="7.2000" quantity="40" />
+        <item price="24.9000" quantity="24" />
+        <item price="15.2000" quantity="20" />
+        <item price="20.8000" quantity="28" />
+        <item price="27.8000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10342" date="1996-10-30T00:00:00">
+      <items>
+        <item price="15.2000" quantity="24" />
+        <item price="10.0000" quantity="56" />
+        <item price="15.2000" quantity="40" />
+        <item price="19.2000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10396" date="1996-12-27T00:00:00">
+      <items>
+        <item price="7.2000" quantity="40" />
+        <item price="17.2000" quantity="60" />
+        <item price="27.8000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10488" date="1997-03-27T00:00:00">
+      <items>
+        <item price="44.0000" quantity="30" />
+        <item price="12.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10560" date="1997-06-06T00:00:00">
+      <items>
+        <item price="25.8900" quantity="20" />
+        <item price="49.3000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10623" date="1997-08-07T00:00:00">
+      <items>
+        <item price="23.2500" quantity="21" />
+        <item price="9.2000" quantity="15" />
+        <item price="10.0000" quantity="25" />
+        <item price="4.5000" quantity="3" />
+        <item price="18.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10653" date="1997-09-02T00:00:00">
+      <items>
+        <item price="17.4500" quantity="30" />
+        <item price="34.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10670" date="1997-09-16T00:00:00">
+      <items>
+        <item price="9.0000" quantity="32" />
+        <item price="12.0000" quantity="60" />
+        <item price="14.0000" quantity="25" />
+        <item price="15.0000" quantity="50" />
+        <item price="7.7500" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10675" date="1997-09-19T00:00:00">
+      <items>
+        <item price="23.2500" quantity="30" />
+        <item price="32.8000" quantity="10" />
+        <item price="13.2500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10717" date="1997-10-24T00:00:00">
+      <items>
+        <item price="10.0000" quantity="32" />
+        <item price="7.4500" quantity="15" />
+        <item price="36.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10791" date="1997-12-23T00:00:00">
+      <items>
+        <item price="123.7900" quantity="14" />
+        <item price="9.6500" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10859" date="1998-01-29T00:00:00">
+      <items>
+        <item price="4.5000" quantity="40" />
+        <item price="7.4500" quantity="35" />
+        <item price="33.2500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10929" date="1998-03-05T00:00:00">
+      <items>
+        <item price="10.0000" quantity="60" />
+        <item price="7.7500" quantity="49" />
+        <item price="13.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="11012" date="1998-04-09T00:00:00">
+      <items>
+        <item price="9.2000" quantity="50" />
+        <item price="34.0000" quantity="36" />
+        <item price="21.5000" quantity="60" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="FRANR" country="France" contactName="Carine Schmitt" contactTitle="Marketing Manager">
+    <Orders id="10671" date="1997-09-17T00:00:00">
+      <items>
+        <item price="17.4500" quantity="10" />
+        <item price="49.3000" quantity="10" />
+        <item price="21.0500" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10860" date="1998-01-29T00:00:00">
+      <items>
+        <item price="53.0000" quantity="3" />
+        <item price="18.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10971" date="1998-03-24T00:00:00">
+      <items>
+        <item price="123.7900" quantity="14" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="FRANS" country="Italy" contactName="Paolo Accorti" contactTitle="Sales Representative">
+    <Orders id="10422" date="1997-01-22T00:00:00">
+      <items>
+        <item price="24.9000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10710" date="1997-10-20T00:00:00">
+      <items>
+        <item price="9.2000" quantity="5" />
+        <item price="9.5000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10753" date="1997-11-25T00:00:00">
+      <items>
+        <item price="9.5000" quantity="4" />
+        <item price="10.0000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10807" date="1997-12-31T00:00:00">
+      <items>
+        <item price="18.4000" quantity="1" />
+      </items>
+    </Orders>
+    <Orders id="11026" date="1998-04-15T00:00:00">
+      <items>
+        <item price="62.5000" quantity="8" />
+        <item price="53.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="11060" date="1998-04-30T00:00:00">
+      <items>
+        <item price="34.0000" quantity="4" />
+        <item price="13.0000" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="FURIB" country="Portugal" contactName="Lino Rodriguez" contactTitle="Sales Manager">
+    <Orders id="10328" date="1996-10-14T00:00:00">
+      <items>
+        <item price="44.0000" quantity="9" />
+        <item price="16.8000" quantity="40" />
+        <item price="10.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10352" date="1996-11-12T00:00:00">
+      <items>
+        <item price="3.6000" quantity="10" />
+        <item price="5.9000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10464" date="1997-03-04T00:00:00">
+      <items>
+        <item price="17.6000" quantity="16" />
+        <item price="36.8000" quantity="3" />
+        <item price="30.4000" quantity="30" />
+        <item price="27.2000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10491" date="1997-03-31T00:00:00">
+      <items>
+        <item price="15.5000" quantity="15" />
+        <item price="10.4000" quantity="7" />
+      </items>
+    </Orders>
+    <Orders id="10551" date="1997-05-28T00:00:00">
+      <items>
+        <item price="17.4500" quantity="40" />
+        <item price="18.0000" quantity="20" />
+        <item price="19.4500" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10604" date="1997-07-18T00:00:00">
+      <items>
+        <item price="12.7500" quantity="6" />
+        <item price="18.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10664" date="1997-09-10T00:00:00">
+      <items>
+        <item price="31.0000" quantity="24" />
+        <item price="38.0000" quantity="12" />
+        <item price="21.0500" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10963" date="1998-03-19T00:00:00">
+      <items>
+        <item price="34.0000" quantity="2" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="GALED" country="Spain" contactName="Eduardo Saavedra" contactTitle="Marketing Manager">
+    <Orders id="10366" date="1996-11-28T00:00:00">
+      <items>
+        <item price="16.8000" quantity="5" />
+        <item price="10.4000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10426" date="1997-01-27T00:00:00">
+      <items>
+        <item price="30.4000" quantity="5" />
+        <item price="26.6000" quantity="7" />
+      </items>
+    </Orders>
+    <Orders id="10568" date="1997-06-13T00:00:00">
+      <items>
+        <item price="31.0000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10887" date="1998-02-13T00:00:00">
+      <items>
+        <item price="14.0000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10928" date="1998-03-05T00:00:00">
+      <items>
+        <item price="9.5000" quantity="5" />
+        <item price="18.0000" quantity="5" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="GODOS" country="Spain" contactName="Jose Pedro Freyre" contactTitle="Sales Manager">
+    <Orders id="10303" date="1996-09-11T00:00:00">
+      <items>
+        <item price="14.7000" quantity="40" />
+        <item price="16.8000" quantity="30" />
+        <item price="10.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10550" date="1997-05-28T00:00:00">
+      <items>
+        <item price="39.0000" quantity="8" />
+        <item price="9.2000" quantity="10" />
+        <item price="10.0000" quantity="6" />
+        <item price="28.5000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10629" date="1997-08-12T00:00:00">
+      <items>
+        <item price="123.7900" quantity="20" />
+        <item price="33.2500" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10872" date="1998-02-05T00:00:00">
+      <items>
+        <item price="24.0000" quantity="10" />
+        <item price="49.3000" quantity="20" />
+        <item price="33.2500" quantity="15" />
+        <item price="21.0500" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10874" date="1998-02-06T00:00:00">
+      <items>
+        <item price="31.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10888" date="1998-02-16T00:00:00">
+      <items>
+        <item price="19.0000" quantity="20" />
+        <item price="12.5000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10911" date="1998-02-26T00:00:00">
+      <items>
+        <item price="18.0000" quantity="10" />
+        <item price="39.0000" quantity="12" />
+        <item price="14.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10948" date="1998-03-13T00:00:00">
+      <items>
+        <item price="16.2500" quantity="9" />
+        <item price="53.0000" quantity="40" />
+        <item price="24.0000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="11009" date="1998-04-08T00:00:00">
+      <items>
+        <item price="4.5000" quantity="12" />
+        <item price="19.0000" quantity="18" />
+        <item price="34.0000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="11037" date="1998-04-21T00:00:00">
+      <items>
+        <item price="15.0000" quantity="4" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="GOURL" country="Brazil" contactName="Andre Fonseca" contactTitle="Sales Associate">
+    <Orders id="10423" date="1997-01-23T00:00:00">
+      <items>
+        <item price="10.0000" quantity="14" />
+        <item price="44.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10652" date="1997-09-01T00:00:00">
+      <items>
+        <item price="25.8900" quantity="2" />
+        <item price="14.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10685" date="1997-09-29T00:00:00">
+      <items>
+        <item price="31.0000" quantity="20" />
+        <item price="9.6500" quantity="4" />
+        <item price="9.5000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10709" date="1997-10-17T00:00:00">
+      <items>
+        <item price="40.0000" quantity="40" />
+        <item price="53.0000" quantity="28" />
+        <item price="34.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10734" date="1997-11-07T00:00:00">
+      <items>
+        <item price="25.0000" quantity="30" />
+        <item price="25.8900" quantity="15" />
+        <item price="18.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10777" date="1997-12-15T00:00:00">
+      <items>
+        <item price="14.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10790" date="1997-12-22T00:00:00">
+      <items>
+        <item price="30.0000" quantity="3" />
+        <item price="38.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10959" date="1998-03-18T00:00:00">
+      <items>
+        <item price="7.7500" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11049" date="1998-04-24T00:00:00">
+      <items>
+        <item price="19.0000" quantity="10" />
+        <item price="38.0000" quantity="4" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="GREAL" country="USA" contactName="Howard Snyder" contactTitle="Marketing Manager">
+    <Orders id="10528" date="1997-05-06T00:00:00">
+      <items>
+        <item price="21.0000" quantity="3" />
+        <item price="2.5000" quantity="8" />
+        <item price="34.8000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10589" date="1997-07-04T00:00:00">
+      <items>
+        <item price="18.0000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10616" date="1997-07-31T00:00:00">
+      <items>
+        <item price="263.5000" quantity="15" />
+        <item price="38.0000" quantity="14" />
+        <item price="15.0000" quantity="15" />
+        <item price="21.5000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10617" date="1997-07-31T00:00:00">
+      <items>
+        <item price="55.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10656" date="1997-09-04T00:00:00">
+      <items>
+        <item price="23.2500" quantity="3" />
+        <item price="19.4500" quantity="28" />
+        <item price="9.5000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10681" date="1997-09-25T00:00:00">
+      <items>
+        <item price="9.2000" quantity="30" />
+        <item price="10.0000" quantity="12" />
+        <item price="33.2500" quantity="28" />
+      </items>
+    </Orders>
+    <Orders id="10816" date="1998-01-06T00:00:00">
+      <items>
+        <item price="263.5000" quantity="30" />
+        <item price="49.3000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10936" date="1998-03-09T00:00:00">
+      <items>
+        <item price="19.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="11006" date="1998-04-07T00:00:00">
+      <items>
+        <item price="18.0000" quantity="8" />
+        <item price="123.7900" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="11040" date="1998-04-22T00:00:00">
+      <items>
+        <item price="10.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11061" date="1998-04-30T00:00:00">
+      <items>
+        <item price="34.0000" quantity="15" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="GROSR" country="Venezuela" contactName="Manuel Pereira" contactTitle="Owner">
+    <Orders id="10268" date="1996-07-30T00:00:00">
+      <items>
+        <item price="99.0000" quantity="10" />
+        <item price="27.8000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10785" date="1997-12-18T00:00:00">
+      <items>
+        <item price="31.0000" quantity="10" />
+        <item price="7.7500" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="HANAR" country="Brazil" contactName="Mario Pontes" contactTitle="Accounting Manager">
+    <Orders id="10250" date="1996-07-08T00:00:00">
+      <items>
+        <item price="7.7000" quantity="10" />
+        <item price="42.4000" quantity="35" />
+        <item price="16.8000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10253" date="1996-07-10T00:00:00">
+      <items>
+        <item price="10.0000" quantity="20" />
+        <item price="14.4000" quantity="42" />
+        <item price="16.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10541" date="1997-05-19T00:00:00">
+      <items>
+        <item price="4.5000" quantity="35" />
+        <item price="263.5000" quantity="4" />
+        <item price="21.0500" quantity="36" />
+        <item price="21.5000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10645" date="1997-08-26T00:00:00">
+      <items>
+        <item price="62.5000" quantity="20" />
+        <item price="19.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10690" date="1997-10-02T00:00:00">
+      <items>
+        <item price="38.0000" quantity="20" />
+        <item price="13.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10770" date="1997-12-09T00:00:00">
+      <items>
+        <item price="21.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10783" date="1997-12-18T00:00:00">
+      <items>
+        <item price="12.5000" quantity="10" />
+        <item price="263.5000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10886" date="1998-02-13T00:00:00">
+      <items>
+        <item price="31.0000" quantity="70" />
+        <item price="12.5000" quantity="35" />
+        <item price="13.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10903" date="1998-02-24T00:00:00">
+      <items>
+        <item price="6.0000" quantity="40" />
+        <item price="21.0500" quantity="21" />
+        <item price="12.5000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10922" date="1998-03-03T00:00:00">
+      <items>
+        <item price="39.0000" quantity="15" />
+        <item price="4.5000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10925" date="1998-03-04T00:00:00">
+      <items>
+        <item price="19.0000" quantity="25" />
+        <item price="7.0000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10981" date="1998-03-27T00:00:00">
+      <items>
+        <item price="263.5000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="11022" date="1998-04-14T00:00:00">
+      <items>
+        <item price="9.2000" quantity="35" />
+        <item price="36.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="11052" date="1998-04-27T00:00:00">
+      <items>
+        <item price="46.0000" quantity="30" />
+        <item price="28.5000" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="HILAA" country="Venezuela" contactName="Carlos Hernandez" contactTitle="Sales Representative">
+    <Orders id="10257" date="1996-07-16T00:00:00">
+      <items>
+        <item price="35.1000" quantity="25" />
+        <item price="14.4000" quantity="6" />
+        <item price="10.4000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10395" date="1996-12-26T00:00:00">
+      <items>
+        <item price="9.6000" quantity="28" />
+        <item price="26.2000" quantity="70" />
+        <item price="28.8000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10476" date="1997-03-17T00:00:00">
+      <items>
+        <item price="19.2000" quantity="2" />
+        <item price="12.0000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10486" date="1997-03-26T00:00:00">
+      <items>
+        <item price="16.8000" quantity="5" />
+        <item price="42.4000" quantity="25" />
+        <item price="8.0000" quantity="16" />
+      </items>
+    </Orders>
+    <Orders id="10490" date="1997-03-31T00:00:00">
+      <items>
+        <item price="44.0000" quantity="60" />
+        <item price="10.0000" quantity="30" />
+        <item price="6.2000" quantity="36" />
+      </items>
+    </Orders>
+    <Orders id="10498" date="1997-04-07T00:00:00">
+      <items>
+        <item price="4.5000" quantity="14" />
+        <item price="18.4000" quantity="5" />
+        <item price="14.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10552" date="1997-05-29T00:00:00">
+      <items>
+        <item price="36.0000" quantity="18" />
+        <item price="7.7500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10601" date="1997-07-16T00:00:00">
+      <items>
+        <item price="6.0000" quantity="60" />
+        <item price="55.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10613" date="1997-07-29T00:00:00">
+      <items>
+        <item price="6.0000" quantity="8" />
+        <item price="7.7500" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10641" date="1997-08-22T00:00:00">
+      <items>
+        <item price="19.0000" quantity="50" />
+        <item price="18.4000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10705" date="1997-10-15T00:00:00">
+      <items>
+        <item price="12.5000" quantity="20" />
+        <item price="32.0000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10796" date="1997-12-25T00:00:00">
+      <items>
+        <item price="31.2300" quantity="21" />
+        <item price="19.4500" quantity="10" />
+        <item price="33.2500" quantity="35" />
+        <item price="36.0000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10863" date="1998-02-02T00:00:00">
+      <items>
+        <item price="18.0000" quantity="20" />
+        <item price="13.2500" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10901" date="1998-02-23T00:00:00">
+      <items>
+        <item price="9.6500" quantity="30" />
+        <item price="21.5000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10957" date="1998-03-18T00:00:00">
+      <items>
+        <item price="25.8900" quantity="30" />
+        <item price="18.0000" quantity="40" />
+        <item price="33.2500" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10960" date="1998-03-19T00:00:00">
+      <items>
+        <item price="4.5000" quantity="10" />
+        <item price="9.6500" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10976" date="1998-03-25T00:00:00">
+      <items>
+        <item price="45.6000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11055" date="1998-04-28T00:00:00">
+      <items>
+        <item price="4.5000" quantity="15" />
+        <item price="14.0000" quantity="15" />
+        <item price="53.0000" quantity="20" />
+        <item price="19.5000" quantity="20" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="HUNGC" country="USA" contactName="Yoshi Latimer" contactTitle="Sales Representative">
+    <Orders id="10375" date="1996-12-06T00:00:00">
+      <items>
+        <item price="18.6000" quantity="15" />
+        <item price="5.9000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10394" date="1996-12-25T00:00:00">
+      <items>
+        <item price="4.8000" quantity="10" />
+        <item price="39.4000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10415" date="1997-01-15T00:00:00">
+      <items>
+        <item price="31.2000" quantity="2" />
+        <item price="2.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10600" date="1997-07-16T00:00:00">
+      <items>
+        <item price="7.4500" quantity="4" />
+        <item price="15.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10660" date="1997-09-08T00:00:00">
+      <items>
+        <item price="81.0000" quantity="21" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="HUNGO" country="Ireland" contactName="Patricia McKenna" contactTitle="Sales Associate">
+    <Orders id="10298" date="1996-09-05T00:00:00">
+      <items>
+        <item price="15.2000" quantity="40" />
+        <item price="15.2000" quantity="40" />
+        <item price="44.0000" quantity="30" />
+        <item price="39.4000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10309" date="1996-09-19T00:00:00">
+      <items>
+        <item price="17.6000" quantity="20" />
+        <item price="20.0000" quantity="30" />
+        <item price="11.2000" quantity="2" />
+        <item price="36.8000" quantity="20" />
+        <item price="17.2000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10335" date="1996-10-22T00:00:00">
+      <items>
+        <item price="15.2000" quantity="7" />
+        <item price="10.0000" quantity="25" />
+        <item price="25.6000" quantity="6" />
+        <item price="42.4000" quantity="48" />
+      </items>
+    </Orders>
+    <Orders id="10373" date="1996-12-05T00:00:00">
+      <items>
+        <item price="10.6000" quantity="80" />
+        <item price="17.2000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10380" date="1996-12-12T00:00:00">
+      <items>
+        <item price="20.7000" quantity="18" />
+        <item price="26.2000" quantity="20" />
+        <item price="27.2000" quantity="6" />
+        <item price="12.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10429" date="1997-01-29T00:00:00">
+      <items>
+        <item price="13.0000" quantity="40" />
+        <item price="35.1000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10503" date="1997-04-11T00:00:00">
+      <items>
+        <item price="23.2500" quantity="70" />
+        <item price="21.0500" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10516" date="1997-04-24T00:00:00">
+      <items>
+        <item price="62.5000" quantity="25" />
+        <item price="9.6500" quantity="80" />
+        <item price="14.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10567" date="1997-06-12T00:00:00">
+      <items>
+        <item price="12.5000" quantity="60" />
+        <item price="53.0000" quantity="3" />
+        <item price="55.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10646" date="1997-08-27T00:00:00">
+      <items>
+        <item price="18.0000" quantity="15" />
+        <item price="31.0000" quantity="18" />
+        <item price="21.5000" quantity="30" />
+        <item price="13.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10661" date="1997-09-09T00:00:00">
+      <items>
+        <item price="18.0000" quantity="3" />
+        <item price="13.2500" quantity="49" />
+      </items>
+    </Orders>
+    <Orders id="10687" date="1997-09-30T00:00:00">
+      <items>
+        <item price="97.0000" quantity="50" />
+        <item price="123.7900" quantity="10" />
+        <item price="19.0000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10701" date="1997-10-13T00:00:00">
+      <items>
+        <item price="55.0000" quantity="42" />
+        <item price="21.5000" quantity="20" />
+        <item price="18.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10712" date="1997-10-21T00:00:00">
+      <items>
+        <item price="32.8000" quantity="3" />
+        <item price="38.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10736" date="1997-11-11T00:00:00">
+      <items>
+        <item price="21.0500" quantity="40" />
+        <item price="7.7500" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10897" date="1998-02-19T00:00:00">
+      <items>
+        <item price="123.7900" quantity="80" />
+        <item price="25.8900" quantity="36" />
+      </items>
+    </Orders>
+    <Orders id="10912" date="1998-02-26T00:00:00">
+      <items>
+        <item price="21.0000" quantity="40" />
+        <item price="123.7900" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10985" date="1998-03-30T00:00:00">
+      <items>
+        <item price="17.4500" quantity="36" />
+        <item price="62.5000" quantity="8" />
+        <item price="32.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="11063" date="1998-04-30T00:00:00">
+      <items>
+        <item price="14.0000" quantity="30" />
+        <item price="18.4000" quantity="40" />
+        <item price="9.6500" quantity="30" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="ISLAT" country="UK" contactName="Helen Bennett" contactTitle="Marketing Manager">
+    <Orders id="10315" date="1996-09-26T00:00:00">
+      <items>
+        <item price="11.2000" quantity="14" />
+        <item price="12.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10318" date="1996-10-01T00:00:00">
+      <items>
+        <item price="7.7000" quantity="20" />
+        <item price="14.4000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10321" date="1996-10-03T00:00:00">
+      <items>
+        <item price="14.4000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10473" date="1997-03-13T00:00:00">
+      <items>
+        <item price="2.0000" quantity="12" />
+        <item price="17.2000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10621" date="1997-08-05T00:00:00">
+      <items>
+        <item price="9.2000" quantity="5" />
+        <item price="9.0000" quantity="10" />
+        <item price="15.0000" quantity="20" />
+        <item price="21.5000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10674" date="1997-09-18T00:00:00">
+      <items>
+        <item price="9.0000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10749" date="1997-11-20T00:00:00">
+      <items>
+        <item price="38.0000" quantity="15" />
+        <item price="55.0000" quantity="6" />
+        <item price="18.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10798" date="1997-12-26T00:00:00">
+      <items>
+        <item price="49.3000" quantity="2" />
+        <item price="34.8000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10829" date="1998-01-13T00:00:00">
+      <items>
+        <item price="19.0000" quantity="10" />
+        <item price="40.0000" quantity="20" />
+        <item price="6.0000" quantity="10" />
+        <item price="34.0000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10933" date="1998-03-06T00:00:00">
+      <items>
+        <item price="32.8000" quantity="2" />
+        <item price="28.5000" quantity="30" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="KOENE" country="Germany" contactName="Philip Cramer" contactTitle="Sales Associate">
+    <Orders id="10323" date="1996-10-07T00:00:00">
+      <items>
+        <item price="12.4000" quantity="5" />
+        <item price="11.2000" quantity="4" />
+        <item price="14.4000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10325" date="1996-10-09T00:00:00">
+      <items>
+        <item price="20.0000" quantity="6" />
+        <item price="4.8000" quantity="12" />
+        <item price="18.6000" quantity="9" />
+        <item price="10.0000" quantity="4" />
+        <item price="27.8000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10456" date="1997-02-25T00:00:00">
+      <items>
+        <item price="8.0000" quantity="40" />
+        <item price="16.0000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10457" date="1997-02-25T00:00:00">
+      <items>
+        <item price="44.0000" quantity="36" />
+      </items>
+    </Orders>
+    <Orders id="10468" date="1997-03-07T00:00:00">
+      <items>
+        <item price="20.7000" quantity="8" />
+        <item price="36.8000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10506" date="1997-04-15T00:00:00">
+      <items>
+        <item price="14.0000" quantity="18" />
+        <item price="15.0000" quantity="14" />
+      </items>
+    </Orders>
+    <Orders id="10542" date="1997-05-20T00:00:00">
+      <items>
+        <item price="21.0000" quantity="15" />
+        <item price="7.4500" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10630" date="1997-08-13T00:00:00">
+      <items>
+        <item price="24.0000" quantity="12" />
+        <item price="18.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10718" date="1997-10-27T00:00:00">
+      <items>
+        <item price="38.0000" quantity="36" />
+        <item price="17.4500" quantity="20" />
+        <item price="19.0000" quantity="40" />
+        <item price="49.3000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10799" date="1997-12-26T00:00:00">
+      <items>
+        <item price="6.0000" quantity="20" />
+        <item price="4.5000" quantity="20" />
+        <item price="55.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10817" date="1998-01-06T00:00:00">
+      <items>
+        <item price="31.2300" quantity="40" />
+        <item price="263.5000" quantity="30" />
+        <item price="18.4000" quantity="60" />
+        <item price="49.3000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10849" date="1998-01-23T00:00:00">
+      <items>
+        <item price="10.0000" quantity="49" />
+        <item price="31.2300" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10893" date="1998-02-18T00:00:00">
+      <items>
+        <item price="40.0000" quantity="30" />
+        <item price="4.5000" quantity="10" />
+        <item price="123.7900" quantity="24" />
+        <item price="25.8900" quantity="35" />
+        <item price="19.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11028" date="1998-04-16T00:00:00">
+      <items>
+        <item price="24.0000" quantity="35" />
+        <item price="55.0000" quantity="24" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="LACOR" country="France" contactName="Daniel Tonini" contactTitle="Sales Representative">
+    <Orders id="10858" date="1998-01-29T00:00:00">
+      <items>
+        <item price="30.0000" quantity="5" />
+        <item price="43.9000" quantity="10" />
+        <item price="15.0000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10927" date="1998-03-05T00:00:00">
+      <items>
+        <item price="81.0000" quantity="5" />
+        <item price="7.0000" quantity="5" />
+        <item price="18.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10972" date="1998-03-24T00:00:00">
+      <items>
+        <item price="39.0000" quantity="6" />
+        <item price="2.5000" quantity="7" />
+      </items>
+    </Orders>
+    <Orders id="10973" date="1998-03-24T00:00:00">
+      <items>
+        <item price="31.2300" quantity="5" />
+        <item price="9.6500" quantity="6" />
+        <item price="7.7500" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="LAMAI" country="France" contactName="Annette Roulet" contactTitle="Sales Manager">
+    <Orders id="10350" date="1996-11-11T00:00:00">
+      <items>
+        <item price="13.0000" quantity="15" />
+        <item price="28.8000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10358" date="1996-11-20T00:00:00">
+      <items>
+        <item price="3.6000" quantity="10" />
+        <item price="11.2000" quantity="10" />
+        <item price="15.2000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10371" date="1996-12-03T00:00:00">
+      <items>
+        <item price="15.2000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10413" date="1997-01-14T00:00:00">
+      <items>
+        <item price="14.4000" quantity="24" />
+        <item price="39.4000" quantity="40" />
+        <item price="14.4000" quantity="14" />
+      </items>
+    </Orders>
+    <Orders id="10425" date="1997-01-24T00:00:00">
+      <items>
+        <item price="19.2000" quantity="10" />
+        <item price="14.4000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10454" date="1997-02-21T00:00:00">
+      <items>
+        <item price="13.9000" quantity="20" />
+        <item price="2.0000" quantity="20" />
+        <item price="9.6000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10493" date="1997-04-02T00:00:00">
+      <items>
+        <item price="16.8000" quantity="15" />
+        <item price="13.6000" quantity="10" />
+        <item price="28.8000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10500" date="1997-04-09T00:00:00">
+      <items>
+        <item price="15.5000" quantity="12" />
+        <item price="45.6000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10610" date="1997-07-25T00:00:00">
+      <items>
+        <item price="19.0000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10631" date="1997-08-14T00:00:00">
+      <items>
+        <item price="7.7500" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10787" date="1997-12-19T00:00:00">
+      <items>
+        <item price="19.0000" quantity="15" />
+        <item price="123.7900" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10832" date="1998-01-14T00:00:00">
+      <items>
+        <item price="6.0000" quantity="3" />
+        <item price="14.0000" quantity="10" />
+        <item price="19.4500" quantity="16" />
+        <item price="33.2500" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10923" date="1998-03-03T00:00:00">
+      <items>
+        <item price="14.0000" quantity="10" />
+        <item price="46.0000" quantity="10" />
+        <item price="14.0000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="11051" date="1998-04-27T00:00:00">
+      <items>
+        <item price="4.5000" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="LAUGB" country="Canada" contactName="Yoshi Tannamuri" contactTitle="Marketing Assistant">
+    <Orders id="10495" date="1997-04-03T00:00:00">
+      <items>
+        <item price="7.2000" quantity="10" />
+        <item price="7.7000" quantity="20" />
+        <item price="10.4000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10620" date="1997-08-05T00:00:00">
+      <items>
+        <item price="4.5000" quantity="5" />
+        <item price="7.0000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10810" date="1998-01-01T00:00:00">
+      <items>
+        <item price="6.0000" quantity="7" />
+        <item price="14.0000" quantity="5" />
+        <item price="15.0000" quantity="5" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="LAZYK" country="USA" contactName="John Steel" contactTitle="Marketing Manager">
+    <Orders id="10482" date="1997-03-21T00:00:00">
+      <items>
+        <item price="14.7000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10545" date="1997-05-22T00:00:00">
+      <items>
+        <item price="21.0000" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="LEHMS" country="Germany" contactName="Renate Messner" contactTitle="Sales Representative">
+    <Orders id="10279" date="1996-08-13T00:00:00">
+      <items>
+        <item price="31.2000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10284" date="1996-08-19T00:00:00">
+      <items>
+        <item price="35.1000" quantity="15" />
+        <item price="15.5000" quantity="21" />
+        <item price="27.2000" quantity="20" />
+        <item price="11.2000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10343" date="1996-10-31T00:00:00">
+      <items>
+        <item price="26.6000" quantity="50" />
+        <item price="10.0000" quantity="4" />
+        <item price="14.4000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10497" date="1997-04-04T00:00:00">
+      <items>
+        <item price="30.4000" quantity="14" />
+        <item price="27.8000" quantity="25" />
+        <item price="10.4000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10522" date="1997-04-30T00:00:00">
+      <items>
+        <item price="18.0000" quantity="40" />
+        <item price="40.0000" quantity="24" />
+        <item price="25.8900" quantity="20" />
+        <item price="18.4000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10534" date="1997-05-12T00:00:00">
+      <items>
+        <item price="25.8900" quantity="10" />
+        <item price="18.4000" quantity="10" />
+        <item price="7.4500" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10536" date="1997-05-14T00:00:00">
+      <items>
+        <item price="38.0000" quantity="15" />
+        <item price="12.5000" quantity="20" />
+        <item price="2.5000" quantity="30" />
+        <item price="34.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10557" date="1997-06-03T00:00:00">
+      <items>
+        <item price="33.2500" quantity="30" />
+        <item price="7.7500" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10592" date="1997-07-08T00:00:00">
+      <items>
+        <item price="15.5000" quantity="25" />
+        <item price="31.2300" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10593" date="1997-07-09T00:00:00">
+      <items>
+        <item price="81.0000" quantity="21" />
+        <item price="36.0000" quantity="20" />
+        <item price="18.0000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10772" date="1997-12-10T00:00:00">
+      <items>
+        <item price="123.7900" quantity="18" />
+        <item price="55.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10862" date="1998-01-30T00:00:00">
+      <items>
+        <item price="21.0000" quantity="25" />
+        <item price="7.0000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10891" date="1998-02-17T00:00:00">
+      <items>
+        <item price="25.8900" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10934" date="1998-03-09T00:00:00">
+      <items>
+        <item price="25.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11070" date="1998-05-05T00:00:00">
+      <items>
+        <item price="18.0000" quantity="40" />
+        <item price="19.0000" quantity="20" />
+        <item price="17.4500" quantity="30" />
+        <item price="12.5000" quantity="20" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="LETSS" country="USA" contactName="Jaime Yorres" contactTitle="Owner">
+    <Orders id="10579" date="1997-06-25T00:00:00">
+      <items>
+        <item price="15.5000" quantity="10" />
+        <item price="7.7500" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10719" date="1997-10-27T00:00:00">
+      <items>
+        <item price="62.5000" quantity="12" />
+        <item price="25.8900" quantity="3" />
+        <item price="7.4500" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10735" date="1997-11-10T00:00:00">
+      <items>
+        <item price="28.5000" quantity="20" />
+        <item price="13.0000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10884" date="1998-02-12T00:00:00">
+      <items>
+        <item price="10.0000" quantity="40" />
+        <item price="38.0000" quantity="21" />
+        <item price="21.0500" quantity="12" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="LILAS" country="Venezuela" contactName="Carlos Gonzalez" contactTitle="Accounting Manager">
+    <Orders id="10283" date="1996-08-16T00:00:00">
+      <items>
+        <item price="12.4000" quantity="20" />
+        <item price="7.3000" quantity="18" />
+        <item price="27.2000" quantity="35" />
+        <item price="27.8000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10296" date="1996-09-03T00:00:00">
+      <items>
+        <item price="16.8000" quantity="12" />
+        <item price="13.9000" quantity="30" />
+        <item price="28.8000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10330" date="1996-10-16T00:00:00">
+      <items>
+        <item price="24.9000" quantity="50" />
+        <item price="27.8000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10357" date="1996-11-19T00:00:00">
+      <items>
+        <item price="24.8000" quantity="30" />
+        <item price="24.9000" quantity="16" />
+        <item price="27.2000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10381" date="1996-12-12T00:00:00">
+      <items>
+        <item price="8.0000" quantity="14" />
+      </items>
+    </Orders>
+    <Orders id="10461" date="1997-02-28T00:00:00">
+      <items>
+        <item price="8.0000" quantity="40" />
+        <item price="20.7000" quantity="28" />
+        <item price="19.2000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10499" date="1997-04-08T00:00:00">
+      <items>
+        <item price="45.6000" quantity="20" />
+        <item price="20.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10543" date="1997-05-21T00:00:00">
+      <items>
+        <item price="38.0000" quantity="30" />
+        <item price="9.0000" quantity="70" />
+      </items>
+    </Orders>
+    <Orders id="10780" date="1997-12-16T00:00:00">
+      <items>
+        <item price="15.0000" quantity="35" />
+        <item price="13.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10823" date="1998-01-09T00:00:00">
+      <items>
+        <item price="21.0000" quantity="20" />
+        <item price="19.5000" quantity="15" />
+        <item price="55.0000" quantity="40" />
+        <item price="13.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10899" date="1998-02-20T00:00:00">
+      <items>
+        <item price="18.0000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10997" date="1998-04-03T00:00:00">
+      <items>
+        <item price="32.0000" quantity="50" />
+        <item price="12.0000" quantity="20" />
+        <item price="7.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11065" date="1998-05-01T00:00:00">
+      <items>
+        <item price="25.8900" quantity="4" />
+        <item price="7.4500" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11071" date="1998-05-05T00:00:00">
+      <items>
+        <item price="30.0000" quantity="15" />
+        <item price="6.0000" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="LINOD" country="Venezuela" contactName="Felipe Izquierdo" contactTitle="Owner">
+    <Orders id="10405" date="1997-01-06T00:00:00">
+      <items>
+        <item price="8.0000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10485" date="1997-03-25T00:00:00">
+      <items>
+        <item price="15.2000" quantity="20" />
+        <item price="8.0000" quantity="20" />
+        <item price="19.2000" quantity="30" />
+        <item price="12.0000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10638" date="1997-08-20T00:00:00">
+      <items>
+        <item price="9.5000" quantity="20" />
+        <item price="21.0500" quantity="21" />
+        <item price="34.8000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10697" date="1997-10-08T00:00:00">
+      <items>
+        <item price="9.2000" quantity="7" />
+        <item price="18.0000" quantity="9" />
+        <item price="13.2500" quantity="30" />
+        <item price="15.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10729" date="1997-11-04T00:00:00">
+      <items>
+        <item price="18.0000" quantity="50" />
+        <item price="10.0000" quantity="30" />
+        <item price="16.2500" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10811" date="1998-01-02T00:00:00">
+      <items>
+        <item price="9.2000" quantity="15" />
+        <item price="9.0000" quantity="18" />
+        <item price="18.4000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10838" date="1998-01-19T00:00:00">
+      <items>
+        <item price="18.0000" quantity="4" />
+        <item price="62.5000" quantity="25" />
+        <item price="19.0000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10840" date="1998-01-19T00:00:00">
+      <items>
+        <item price="14.0000" quantity="6" />
+        <item price="18.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10919" date="1998-03-02T00:00:00">
+      <items>
+        <item price="17.4500" quantity="24" />
+        <item price="14.0000" quantity="24" />
+        <item price="18.4000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10954" date="1998-03-17T00:00:00">
+      <items>
+        <item price="17.4500" quantity="28" />
+        <item price="12.5000" quantity="25" />
+        <item price="9.5000" quantity="30" />
+        <item price="34.0000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="11014" date="1998-04-10T00:00:00">
+      <items>
+        <item price="9.6500" quantity="28" />
+      </items>
+    </Orders>
+    <Orders id="11039" date="1998-04-21T00:00:00">
+      <items>
+        <item price="45.6000" quantity="20" />
+        <item price="18.0000" quantity="24" />
+        <item price="20.0000" quantity="60" />
+        <item price="19.5000" quantity="28" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="LONEP" country="USA" contactName="Fran Wilson" contactTitle="Sales Manager">
+    <Orders id="10307" date="1996-09-17T00:00:00">
+      <items>
+        <item price="39.4000" quantity="10" />
+        <item price="10.0000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10317" date="1996-09-30T00:00:00">
+      <items>
+        <item price="14.4000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10544" date="1997-05-21T00:00:00">
+      <items>
+        <item price="45.6000" quantity="7" />
+        <item price="14.0000" quantity="7" />
+      </items>
+    </Orders>
+    <Orders id="10662" date="1997-09-09T00:00:00">
+      <items>
+        <item price="12.5000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10665" date="1997-09-11T00:00:00">
+      <items>
+        <item price="53.0000" quantity="20" />
+        <item price="55.0000" quantity="1" />
+        <item price="18.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10867" date="1998-02-03T00:00:00">
+      <items>
+        <item price="32.8000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10883" date="1998-02-12T00:00:00">
+      <items>
+        <item price="4.5000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="11018" date="1998-04-13T00:00:00">
+      <items>
+        <item price="38.0000" quantity="20" />
+        <item price="62.5000" quantity="10" />
+        <item price="38.0000" quantity="5" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="MAGAA" country="Italy" contactName="Giovanni Rovelli" contactTitle="Marketing Manager">
+    <Orders id="10275" date="1996-08-07T00:00:00">
+      <items>
+        <item price="3.6000" quantity="12" />
+        <item price="44.0000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10300" date="1996-09-09T00:00:00">
+      <items>
+        <item price="13.6000" quantity="30" />
+        <item price="10.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10404" date="1997-01-03T00:00:00">
+      <items>
+        <item price="24.9000" quantity="30" />
+        <item price="11.2000" quantity="40" />
+        <item price="16.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10467" date="1997-03-06T00:00:00">
+      <items>
+        <item price="3.6000" quantity="28" />
+        <item price="11.2000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10635" date="1997-08-18T00:00:00">
+      <items>
+        <item price="22.0000" quantity="10" />
+        <item price="21.3500" quantity="15" />
+        <item price="21.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10754" date="1997-11-25T00:00:00">
+      <items>
+        <item price="18.4000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10784" date="1997-12-18T00:00:00">
+      <items>
+        <item price="19.0000" quantity="30" />
+        <item price="18.0000" quantity="2" />
+        <item price="34.8000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10818" date="1998-01-07T00:00:00">
+      <items>
+        <item price="32.0000" quantity="20" />
+        <item price="9.6500" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10939" date="1998-03-10T00:00:00">
+      <items>
+        <item price="19.0000" quantity="10" />
+        <item price="14.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10950" date="1998-03-16T00:00:00">
+      <items>
+        <item price="22.0000" quantity="5" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="MAISD" country="Belgium" contactName="Catherine Dewey" contactTitle="Sales Agent">
+    <Orders id="10529" date="1997-05-07T00:00:00">
+      <items>
+        <item price="24.0000" quantity="14" />
+        <item price="12.5000" quantity="20" />
+        <item price="36.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10649" date="1997-08-28T00:00:00">
+      <items>
+        <item price="45.6000" quantity="20" />
+        <item price="34.8000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10760" date="1997-12-01T00:00:00">
+      <items>
+        <item price="14.0000" quantity="12" />
+        <item price="43.9000" quantity="40" />
+        <item price="46.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10892" date="1998-02-17T00:00:00">
+      <items>
+        <item price="55.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10896" date="1998-02-19T00:00:00">
+      <items>
+        <item price="9.5000" quantity="15" />
+        <item price="38.0000" quantity="16" />
+      </items>
+    </Orders>
+    <Orders id="10978" date="1998-03-26T00:00:00">
+      <items>
+        <item price="40.0000" quantity="20" />
+        <item price="10.0000" quantity="40" />
+        <item price="18.4000" quantity="10" />
+        <item price="19.4500" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="11004" date="1998-04-07T00:00:00">
+      <items>
+        <item price="31.2300" quantity="6" />
+        <item price="18.0000" quantity="6" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="MEREP" country="Canada" contactName="Jean Fresniere" contactTitle="Marketing Assistant">
+    <Orders id="10332" date="1996-10-17T00:00:00">
+      <items>
+        <item price="50.0000" quantity="40" />
+        <item price="11.2000" quantity="10" />
+        <item price="7.6000" quantity="16" />
+      </items>
+    </Orders>
+    <Orders id="10339" date="1996-10-28T00:00:00">
+      <items>
+        <item price="17.6000" quantity="10" />
+        <item price="31.2000" quantity="70" />
+        <item price="39.4000" quantity="28" />
+      </items>
+    </Orders>
+    <Orders id="10376" date="1996-12-09T00:00:00">
+      <items>
+        <item price="10.0000" quantity="42" />
+      </items>
+    </Orders>
+    <Orders id="10424" date="1997-01-23T00:00:00">
+      <items>
+        <item price="14.4000" quantity="60" />
+        <item price="210.8000" quantity="49" />
+        <item price="10.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10439" date="1997-02-07T00:00:00">
+      <items>
+        <item price="30.4000" quantity="15" />
+        <item price="13.9000" quantity="16" />
+        <item price="26.6000" quantity="6" />
+        <item price="8.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10505" date="1997-04-14T00:00:00">
+      <items>
+        <item price="49.3000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10565" date="1997-06-11T00:00:00">
+      <items>
+        <item price="4.5000" quantity="25" />
+        <item price="33.2500" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10570" date="1997-06-17T00:00:00">
+      <items>
+        <item price="21.0000" quantity="15" />
+        <item price="38.0000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10590" date="1997-07-07T00:00:00">
+      <items>
+        <item price="18.0000" quantity="20" />
+        <item price="13.0000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10605" date="1997-07-21T00:00:00">
+      <items>
+        <item price="17.4500" quantity="30" />
+        <item price="55.0000" quantity="20" />
+        <item price="34.0000" quantity="70" />
+        <item price="21.5000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10618" date="1997-08-01T00:00:00">
+      <items>
+        <item price="25.0000" quantity="70" />
+        <item price="38.0000" quantity="20" />
+        <item price="12.5000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10619" date="1997-08-04T00:00:00">
+      <items>
+        <item price="10.0000" quantity="42" />
+        <item price="21.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10724" date="1997-10-30T00:00:00">
+      <items>
+        <item price="31.0000" quantity="16" />
+        <item price="28.5000" quantity="5" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="MORGK" country="Germany" contactName="Alexander Feuer" contactTitle="Marketing Assistant">
+    <Orders id="10277" date="1996-08-09T00:00:00">
+      <items>
+        <item price="36.4000" quantity="20" />
+        <item price="39.4000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10575" date="1997-06-20T00:00:00">
+      <items>
+        <item price="55.0000" quantity="12" />
+        <item price="43.9000" quantity="6" />
+        <item price="34.8000" quantity="30" />
+        <item price="18.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10699" date="1997-10-09T00:00:00">
+      <items>
+        <item price="9.5000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10779" date="1997-12-16T00:00:00">
+      <items>
+        <item price="17.4500" quantity="20" />
+        <item price="49.3000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10945" date="1998-03-12T00:00:00">
+      <items>
+        <item price="6.0000" quantity="20" />
+        <item price="12.5000" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="NORTS" country="UK" contactName="Simon Crowther" contactTitle="Sales Associate">
+    <Orders id="10517" date="1997-04-24T00:00:00">
+      <items>
+        <item price="7.0000" quantity="6" />
+        <item price="55.0000" quantity="4" />
+        <item price="15.0000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10752" date="1997-11-24T00:00:00">
+      <items>
+        <item price="18.0000" quantity="8" />
+        <item price="36.0000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="11057" date="1998-04-29T00:00:00">
+      <items>
+        <item price="15.0000" quantity="3" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="OCEAN" country="Argentina" contactName="Yvonne Moncada" contactTitle="Sales Agent">
+    <Orders id="10409" date="1997-01-09T00:00:00">
+      <items>
+        <item price="18.6000" quantity="12" />
+        <item price="8.0000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10531" date="1997-05-08T00:00:00">
+      <items>
+        <item price="55.0000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10898" date="1998-02-20T00:00:00">
+      <items>
+        <item price="6.0000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10958" date="1998-03-18T00:00:00">
+      <items>
+        <item price="21.3500" quantity="20" />
+        <item price="30.0000" quantity="6" />
+        <item price="34.8000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10986" date="1998-03-30T00:00:00">
+      <items>
+        <item price="21.0000" quantity="30" />
+        <item price="81.0000" quantity="15" />
+        <item price="18.0000" quantity="10" />
+        <item price="13.0000" quantity="15" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="OLDWO" country="USA" contactName="Rene Phillips" contactTitle="Sales Representative">
+    <Orders id="10305" date="1996-09-13T00:00:00">
+      <items>
+        <item price="50.0000" quantity="25" />
+        <item price="99.0000" quantity="25" />
+        <item price="14.4000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10338" date="1996-10-25T00:00:00">
+      <items>
+        <item price="31.2000" quantity="20" />
+        <item price="20.7000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10441" date="1997-02-10T00:00:00">
+      <items>
+        <item price="35.1000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10594" date="1997-07-09T00:00:00">
+      <items>
+        <item price="7.0000" quantity="24" />
+        <item price="13.2500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10680" date="1997-09-24T00:00:00">
+      <items>
+        <item price="17.4500" quantity="50" />
+        <item price="12.5000" quantity="20" />
+        <item price="14.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10706" date="1997-10-16T00:00:00">
+      <items>
+        <item price="17.4500" quantity="20" />
+        <item price="46.0000" quantity="24" />
+        <item price="55.0000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10808" date="1998-01-01T00:00:00">
+      <items>
+        <item price="38.0000" quantity="20" />
+        <item price="18.0000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10855" date="1998-01-27T00:00:00">
+      <items>
+        <item price="17.4500" quantity="50" />
+        <item price="12.5000" quantity="14" />
+        <item price="38.0000" quantity="24" />
+        <item price="21.0500" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10965" date="1998-03-20T00:00:00">
+      <items>
+        <item price="53.0000" quantity="16" />
+      </items>
+    </Orders>
+    <Orders id="11034" date="1998-04-20T00:00:00">
+      <items>
+        <item price="10.0000" quantity="15" />
+        <item price="19.4500" quantity="12" />
+        <item price="28.5000" quantity="6" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="OTTIK" country="Germany" contactName="Henriette Pfalzheim" contactTitle="Owner">
+    <Orders id="10260" date="1996-07-19T00:00:00">
+      <items>
+        <item price="7.7000" quantity="16" />
+        <item price="15.6000" quantity="50" />
+        <item price="39.4000" quantity="15" />
+        <item price="12.0000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10407" date="1997-01-07T00:00:00">
+      <items>
+        <item price="16.8000" quantity="30" />
+        <item price="28.8000" quantity="15" />
+        <item price="17.2000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10508" date="1997-04-16T00:00:00">
+      <items>
+        <item price="6.0000" quantity="10" />
+        <item price="18.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10554" date="1997-05-30T00:00:00">
+      <items>
+        <item price="17.4500" quantity="30" />
+        <item price="9.0000" quantity="20" />
+        <item price="49.3000" quantity="20" />
+        <item price="13.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10580" date="1997-06-26T00:00:00">
+      <items>
+        <item price="23.2500" quantity="15" />
+        <item price="9.6500" quantity="9" />
+        <item price="21.0500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10684" date="1997-09-26T00:00:00">
+      <items>
+        <item price="18.4000" quantity="20" />
+        <item price="9.5000" quantity="40" />
+        <item price="34.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10766" date="1997-12-05T00:00:00">
+      <items>
+        <item price="19.0000" quantity="40" />
+        <item price="30.0000" quantity="35" />
+        <item price="12.5000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10833" date="1998-01-15T00:00:00">
+      <items>
+        <item price="30.0000" quantity="20" />
+        <item price="12.5000" quantity="9" />
+        <item price="32.8000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10999" date="1998-04-03T00:00:00">
+      <items>
+        <item price="9.6500" quantity="20" />
+        <item price="53.0000" quantity="15" />
+        <item price="13.0000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="11020" date="1998-04-14T00:00:00">
+      <items>
+        <item price="31.0000" quantity="24" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="PARIS" country="France" contactName="Marie Bertrand" contactTitle="Owner" />
+  <Customer id="PERIC" country="Mexico" contactName="Guillermo Fernandez" contactTitle="Sales Representative">
+    <Orders id="10322" date="1996-10-04T00:00:00">
+      <items>
+        <item price="5.6000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10354" date="1996-11-14T00:00:00">
+      <items>
+        <item price="14.4000" quantity="12" />
+        <item price="99.0000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10474" date="1997-03-13T00:00:00">
+      <items>
+        <item price="18.6000" quantity="12" />
+        <item price="36.4000" quantity="18" />
+        <item price="14.7000" quantity="21" />
+        <item price="6.2000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10502" date="1997-04-10T00:00:00">
+      <items>
+        <item price="9.5000" quantity="21" />
+        <item price="32.8000" quantity="6" />
+        <item price="14.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10995" date="1998-04-02T00:00:00">
+      <items>
+        <item price="53.0000" quantity="20" />
+        <item price="34.0000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="11073" date="1998-05-05T00:00:00">
+      <items>
+        <item price="21.0000" quantity="10" />
+        <item price="4.5000" quantity="20" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="PICCO" country="Austria" contactName="Georg Pipps" contactTitle="Sales Manager">
+    <Orders id="10353" date="1996-11-13T00:00:00">
+      <items>
+        <item price="16.8000" quantity="12" />
+        <item price="210.8000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10392" date="1996-12-24T00:00:00">
+      <items>
+        <item price="28.8000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10427" date="1997-01-27T00:00:00">
+      <items>
+        <item price="18.6000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10489" date="1997-03-28T00:00:00">
+      <items>
+        <item price="16.8000" quantity="15" />
+        <item price="13.9000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10530" date="1997-05-08T00:00:00">
+      <items>
+        <item price="39.0000" quantity="40" />
+        <item price="46.0000" quantity="25" />
+        <item price="28.5000" quantity="20" />
+        <item price="18.0000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10597" date="1997-07-11T00:00:00">
+      <items>
+        <item price="4.5000" quantity="35" />
+        <item price="19.5000" quantity="20" />
+        <item price="21.0500" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10686" date="1997-09-30T00:00:00">
+      <items>
+        <item price="39.0000" quantity="30" />
+        <item price="31.2300" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10747" date="1997-11-19T00:00:00">
+      <items>
+        <item price="12.5000" quantity="8" />
+        <item price="9.6500" quantity="35" />
+        <item price="43.9000" quantity="9" />
+        <item price="36.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10844" date="1998-01-21T00:00:00">
+      <items>
+        <item price="21.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="11053" date="1998-04-27T00:00:00">
+      <items>
+        <item price="62.5000" quantity="35" />
+        <item price="32.0000" quantity="20" />
+        <item price="33.2500" quantity="25" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="PRINI" country="Portugal" contactName="Isabel de Castro" contactTitle="Sales Representative">
+    <Orders id="10336" date="1996-10-23T00:00:00">
+      <items>
+        <item price="17.6000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10397" date="1996-12-27T00:00:00">
+      <items>
+        <item price="8.0000" quantity="10" />
+        <item price="42.4000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10433" date="1997-02-03T00:00:00">
+      <items>
+        <item price="30.4000" quantity="28" />
+      </items>
+    </Orders>
+    <Orders id="10477" date="1997-03-17T00:00:00">
+      <items>
+        <item price="14.4000" quantity="15" />
+        <item price="8.0000" quantity="21" />
+        <item price="14.4000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11007" date="1998-04-08T00:00:00">
+      <items>
+        <item price="40.0000" quantity="30" />
+        <item price="123.7900" quantity="10" />
+        <item price="14.0000" quantity="14" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="QUEDE" country="Brazil" contactName="Bernardo Batista" contactTitle="Accounting Manager">
+    <Orders id="10261" date="1996-07-19T00:00:00">
+      <items>
+        <item price="8.0000" quantity="20" />
+        <item price="14.4000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10291" date="1996-08-27T00:00:00">
+      <items>
+        <item price="4.8000" quantity="20" />
+        <item price="15.5000" quantity="24" />
+        <item price="42.4000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10379" date="1996-12-11T00:00:00">
+      <items>
+        <item price="7.7000" quantity="8" />
+        <item price="35.1000" quantity="16" />
+        <item price="16.8000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10421" date="1997-01-21T00:00:00">
+      <items>
+        <item price="7.3000" quantity="4" />
+        <item price="24.9000" quantity="30" />
+        <item price="26.2000" quantity="15" />
+        <item price="10.4000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10587" date="1997-07-02T00:00:00">
+      <items>
+        <item price="31.2300" quantity="6" />
+        <item price="18.0000" quantity="20" />
+        <item price="13.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10647" date="1997-08-27T00:00:00">
+      <items>
+        <item price="9.2000" quantity="30" />
+        <item price="18.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10720" date="1997-10-28T00:00:00">
+      <items>
+        <item price="18.0000" quantity="21" />
+        <item price="21.5000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10794" date="1997-12-24T00:00:00">
+      <items>
+        <item price="23.2500" quantity="15" />
+        <item price="7.4500" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10989" date="1998-03-31T00:00:00">
+      <items>
+        <item price="25.0000" quantity="40" />
+        <item price="21.0000" quantity="15" />
+        <item price="9.6500" quantity="4" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="QUEEN" country="Brazil" contactName="Lucia Carvalho" contactTitle="Marketing Assistant">
+    <Orders id="10372" date="1996-12-04T00:00:00">
+      <items>
+        <item price="64.8000" quantity="12" />
+        <item price="210.8000" quantity="40" />
+        <item price="27.2000" quantity="70" />
+        <item price="27.8000" quantity="42" />
+      </items>
+    </Orders>
+    <Orders id="10406" date="1997-01-07T00:00:00">
+      <items>
+        <item price="14.4000" quantity="10" />
+        <item price="8.0000" quantity="30" />
+        <item price="36.4000" quantity="42" />
+        <item price="15.2000" quantity="5" />
+        <item price="14.7000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10487" date="1997-03-26T00:00:00">
+      <items>
+        <item price="7.3000" quantity="5" />
+        <item price="24.9000" quantity="30" />
+        <item price="5.9000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10637" date="1997-08-19T00:00:00">
+      <items>
+        <item price="21.0000" quantity="10" />
+        <item price="16.2500" quantity="25" />
+        <item price="38.0000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10659" date="1997-09-05T00:00:00">
+      <items>
+        <item price="12.5000" quantity="20" />
+        <item price="18.4000" quantity="24" />
+        <item price="15.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10704" date="1997-10-14T00:00:00">
+      <items>
+        <item price="22.0000" quantity="6" />
+        <item price="4.5000" quantity="35" />
+        <item price="12.7500" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10728" date="1997-11-04T00:00:00">
+      <items>
+        <item price="25.8900" quantity="15" />
+        <item price="18.4000" quantity="6" />
+        <item price="24.0000" quantity="12" />
+        <item price="34.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10786" date="1997-12-19T00:00:00">
+      <items>
+        <item price="40.0000" quantity="30" />
+        <item price="25.8900" quantity="15" />
+        <item price="7.7500" quantity="42" />
+      </items>
+    </Orders>
+    <Orders id="10868" date="1998-02-04T00:00:00">
+      <items>
+        <item price="31.2300" quantity="20" />
+        <item price="18.0000" quantity="30" />
+        <item price="20.0000" quantity="42" />
+      </items>
+    </Orders>
+    <Orders id="10913" date="1998-02-26T00:00:00">
+      <items>
+        <item price="22.0000" quantity="30" />
+        <item price="2.5000" quantity="40" />
+        <item price="13.2500" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10914" date="1998-02-27T00:00:00">
+      <items>
+        <item price="21.5000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10961" date="1998-03-19T00:00:00">
+      <items>
+        <item price="7.0000" quantity="6" />
+        <item price="18.0000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="11068" date="1998-05-04T00:00:00">
+      <items>
+        <item price="45.6000" quantity="8" />
+        <item price="46.0000" quantity="36" />
+        <item price="13.0000" quantity="28" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="QUICK" country="Germany" contactName="Horst Kloss" contactTitle="Accounting Manager">
+    <Orders id="10273" date="1996-08-05T00:00:00">
+      <items>
+        <item price="24.8000" quantity="24" />
+        <item price="10.0000" quantity="15" />
+        <item price="2.0000" quantity="20" />
+        <item price="14.7000" quantity="60" />
+        <item price="14.4000" quantity="33" />
+      </items>
+    </Orders>
+    <Orders id="10285" date="1996-08-20T00:00:00">
+      <items>
+        <item price="14.4000" quantity="45" />
+        <item price="14.7000" quantity="40" />
+        <item price="26.2000" quantity="36" />
+      </items>
+    </Orders>
+    <Orders id="10286" date="1996-08-21T00:00:00">
+      <items>
+        <item price="14.4000" quantity="100" />
+        <item price="39.4000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10313" date="1996-09-24T00:00:00">
+      <items>
+        <item price="15.2000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10345" date="1996-11-04T00:00:00">
+      <items>
+        <item price="32.0000" quantity="70" />
+        <item price="7.3000" quantity="80" />
+        <item price="11.2000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10361" date="1996-11-22T00:00:00">
+      <items>
+        <item price="14.4000" quantity="54" />
+        <item price="27.2000" quantity="55" />
+      </items>
+    </Orders>
+    <Orders id="10418" date="1997-01-17T00:00:00">
+      <items>
+        <item price="15.2000" quantity="60" />
+        <item price="7.6000" quantity="55" />
+        <item price="22.8000" quantity="16" />
+        <item price="8.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10451" date="1997-02-19T00:00:00">
+      <items>
+        <item price="19.2000" quantity="120" />
+        <item price="26.6000" quantity="35" />
+        <item price="16.8000" quantity="28" />
+        <item price="10.4000" quantity="55" />
+      </items>
+    </Orders>
+    <Orders id="10515" date="1997-04-23T00:00:00">
+      <items>
+        <item price="97.0000" quantity="16" />
+        <item price="17.4500" quantity="50" />
+        <item price="43.9000" quantity="120" />
+        <item price="2.5000" quantity="16" />
+        <item price="34.0000" quantity="84" />
+      </items>
+    </Orders>
+    <Orders id="10527" date="1997-05-05T00:00:00">
+      <items>
+        <item price="22.0000" quantity="50" />
+        <item price="19.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10540" date="1997-05-19T00:00:00">
+      <items>
+        <item price="10.0000" quantity="60" />
+        <item price="31.2300" quantity="40" />
+        <item price="263.5000" quantity="30" />
+        <item price="12.5000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10549" date="1997-05-27T00:00:00">
+      <items>
+        <item price="12.5000" quantity="55" />
+        <item price="9.5000" quantity="100" />
+        <item price="53.0000" quantity="48" />
+      </items>
+    </Orders>
+    <Orders id="10588" date="1997-07-03T00:00:00">
+      <items>
+        <item price="62.5000" quantity="40" />
+        <item price="14.0000" quantity="100" />
+      </items>
+    </Orders>
+    <Orders id="10658" date="1997-09-05T00:00:00">
+      <items>
+        <item price="10.0000" quantity="60" />
+        <item price="18.4000" quantity="70" />
+        <item price="34.0000" quantity="55" />
+        <item price="13.0000" quantity="70" />
+      </items>
+    </Orders>
+    <Orders id="10691" date="1997-10-03T00:00:00">
+      <items>
+        <item price="18.0000" quantity="30" />
+        <item price="123.7900" quantity="40" />
+        <item price="46.0000" quantity="40" />
+        <item price="19.4500" quantity="24" />
+        <item price="49.3000" quantity="48" />
+      </items>
+    </Orders>
+    <Orders id="10694" date="1997-10-06T00:00:00">
+      <items>
+        <item price="30.0000" quantity="90" />
+        <item price="55.0000" quantity="25" />
+        <item price="15.0000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10721" date="1997-10-29T00:00:00">
+      <items>
+        <item price="19.4500" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10745" date="1997-11-18T00:00:00">
+      <items>
+        <item price="62.5000" quantity="24" />
+        <item price="19.4500" quantity="16" />
+        <item price="55.0000" quantity="45" />
+        <item price="34.8000" quantity="7" />
+      </items>
+    </Orders>
+    <Orders id="10765" date="1997-12-04T00:00:00">
+      <items>
+        <item price="21.0500" quantity="80" />
+      </items>
+    </Orders>
+    <Orders id="10788" date="1997-12-22T00:00:00">
+      <items>
+        <item price="9.2000" quantity="50" />
+        <item price="7.7500" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10845" date="1998-01-21T00:00:00">
+      <items>
+        <item price="9.0000" quantity="70" />
+        <item price="18.0000" quantity="25" />
+        <item price="14.0000" quantity="42" />
+        <item price="13.2500" quantity="60" />
+        <item price="33.2500" quantity="48" />
+      </items>
+    </Orders>
+    <Orders id="10865" date="1998-02-02T00:00:00">
+      <items>
+        <item price="263.5000" quantity="60" />
+        <item price="18.0000" quantity="80" />
+      </items>
+    </Orders>
+    <Orders id="10878" date="1998-02-10T00:00:00">
+      <items>
+        <item price="81.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10938" date="1998-03-10T00:00:00">
+      <items>
+        <item price="6.0000" quantity="20" />
+        <item price="46.0000" quantity="24" />
+        <item price="34.0000" quantity="49" />
+        <item price="21.5000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10962" date="1998-03-19T00:00:00">
+      <items>
+        <item price="30.0000" quantity="45" />
+        <item price="6.0000" quantity="77" />
+        <item price="32.8000" quantity="20" />
+        <item price="36.0000" quantity="9" />
+        <item price="18.0000" quantity="44" />
+      </items>
+    </Orders>
+    <Orders id="10991" date="1998-04-01T00:00:00">
+      <items>
+        <item price="19.0000" quantity="50" />
+        <item price="15.0000" quantity="20" />
+        <item price="18.0000" quantity="90" />
+      </items>
+    </Orders>
+    <Orders id="10996" date="1998-04-02T00:00:00">
+      <items>
+        <item price="14.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="11021" date="1998-04-14T00:00:00">
+      <items>
+        <item price="19.0000" quantity="11" />
+        <item price="81.0000" quantity="15" />
+        <item price="31.2300" quantity="63" />
+        <item price="53.0000" quantity="44" />
+        <item price="34.8000" quantity="35" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="RANCH" country="Argentina" contactName="Sergio Gutierrez" contactTitle="Sales Representative">
+    <Orders id="10448" date="1997-02-17T00:00:00">
+      <items>
+        <item price="24.9000" quantity="6" />
+        <item price="14.7000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10716" date="1997-10-24T00:00:00">
+      <items>
+        <item price="10.0000" quantity="5" />
+        <item price="53.0000" quantity="7" />
+        <item price="28.5000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10828" date="1998-01-13T00:00:00">
+      <items>
+        <item price="81.0000" quantity="5" />
+        <item price="263.5000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10916" date="1998-02-27T00:00:00">
+      <items>
+        <item price="17.4500" quantity="6" />
+        <item price="32.0000" quantity="6" />
+        <item price="19.5000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="11019" date="1998-04-13T00:00:00">
+      <items>
+        <item price="12.0000" quantity="3" />
+        <item price="20.0000" quantity="2" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="RATTC" country="USA" contactName="Paula Wilson" contactTitle="Assistant Sales Representative">
+    <Orders id="10262" date="1996-07-22T00:00:00">
+      <items>
+        <item price="17.0000" quantity="12" />
+        <item price="24.0000" quantity="15" />
+        <item price="30.4000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10272" date="1996-08-02T00:00:00">
+      <items>
+        <item price="64.8000" quantity="6" />
+        <item price="10.0000" quantity="40" />
+        <item price="27.8000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10294" date="1996-08-30T00:00:00">
+      <items>
+        <item price="14.4000" quantity="18" />
+        <item price="31.2000" quantity="15" />
+        <item price="36.8000" quantity="15" />
+        <item price="27.2000" quantity="21" />
+        <item price="6.2000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10314" date="1996-09-25T00:00:00">
+      <items>
+        <item price="25.6000" quantity="40" />
+        <item price="10.6000" quantity="30" />
+        <item price="39.4000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10316" date="1996-09-27T00:00:00">
+      <items>
+        <item price="7.7000" quantity="10" />
+        <item price="39.4000" quantity="70" />
+      </items>
+    </Orders>
+    <Orders id="10346" date="1996-11-05T00:00:00">
+      <items>
+        <item price="31.2000" quantity="36" />
+        <item price="30.4000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10401" date="1997-01-01T00:00:00">
+      <items>
+        <item price="20.7000" quantity="18" />
+        <item price="30.4000" quantity="70" />
+        <item price="16.8000" quantity="20" />
+        <item price="17.2000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10479" date="1997-03-19T00:00:00">
+      <items>
+        <item price="210.8000" quantity="30" />
+        <item price="26.2000" quantity="28" />
+        <item price="44.0000" quantity="60" />
+        <item price="26.6000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10564" date="1997-06-10T00:00:00">
+      <items>
+        <item price="39.0000" quantity="16" />
+        <item price="12.5000" quantity="6" />
+        <item price="24.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10569" date="1997-06-16T00:00:00">
+      <items>
+        <item price="12.5000" quantity="35" />
+        <item price="18.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10598" date="1997-07-14T00:00:00">
+      <items>
+        <item price="43.9000" quantity="50" />
+        <item price="21.5000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10761" date="1997-12-02T00:00:00">
+      <items>
+        <item price="14.0000" quantity="35" />
+        <item price="7.7500" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10820" date="1998-01-07T00:00:00">
+      <items>
+        <item price="38.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10852" date="1998-01-26T00:00:00">
+      <items>
+        <item price="19.0000" quantity="15" />
+        <item price="39.0000" quantity="6" />
+        <item price="49.3000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10889" date="1998-02-16T00:00:00">
+      <items>
+        <item price="21.0000" quantity="40" />
+        <item price="263.5000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10988" date="1998-03-31T00:00:00">
+      <items>
+        <item price="30.0000" quantity="60" />
+        <item price="49.3000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="11000" date="1998-04-06T00:00:00">
+      <items>
+        <item price="22.0000" quantity="25" />
+        <item price="4.5000" quantity="30" />
+        <item price="13.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="11077" date="1998-05-06T00:00:00">
+      <items>
+        <item price="19.0000" quantity="24" />
+        <item price="10.0000" quantity="4" />
+        <item price="22.0000" quantity="1" />
+        <item price="25.0000" quantity="1" />
+        <item price="30.0000" quantity="1" />
+        <item price="40.0000" quantity="2" />
+        <item price="31.0000" quantity="1" />
+        <item price="38.0000" quantity="2" />
+        <item price="6.0000" quantity="4" />
+        <item price="23.2500" quantity="1" />
+        <item price="17.4500" quantity="2" />
+        <item price="81.0000" quantity="1" />
+        <item price="9.0000" quantity="2" />
+        <item price="32.0000" quantity="1" />
+        <item price="18.0000" quantity="2" />
+        <item price="9.6500" quantity="3" />
+        <item price="12.0000" quantity="3" />
+        <item price="7.0000" quantity="2" />
+        <item price="24.0000" quantity="2" />
+        <item price="34.0000" quantity="2" />
+        <item price="33.2500" quantity="2" />
+        <item price="17.0000" quantity="1" />
+        <item price="15.0000" quantity="2" />
+        <item price="7.7500" quantity="4" />
+        <item price="13.0000" quantity="2" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="REGGC" country="Italy" contactName="Maurizio Moroni" contactTitle="Sales Associate">
+    <Orders id="10288" date="1996-08-23T00:00:00">
+      <items>
+        <item price="5.9000" quantity="10" />
+        <item price="10.0000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10428" date="1997-01-28T00:00:00">
+      <items>
+        <item price="9.6000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10443" date="1997-02-12T00:00:00">
+      <items>
+        <item price="16.8000" quantity="6" />
+        <item price="36.4000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10562" date="1997-06-09T00:00:00">
+      <items>
+        <item price="2.5000" quantity="20" />
+        <item price="49.3000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10586" date="1997-07-02T00:00:00">
+      <items>
+        <item price="7.0000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10655" date="1997-09-03T00:00:00">
+      <items>
+        <item price="9.6500" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10727" date="1997-11-03T00:00:00">
+      <items>
+        <item price="39.0000" quantity="20" />
+        <item price="38.0000" quantity="10" />
+        <item price="55.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10812" date="1998-01-02T00:00:00">
+      <items>
+        <item price="12.5000" quantity="16" />
+        <item price="34.8000" quantity="40" />
+        <item price="13.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10908" date="1998-02-26T00:00:00">
+      <items>
+        <item price="30.0000" quantity="20" />
+        <item price="7.0000" quantity="14" />
+      </items>
+    </Orders>
+    <Orders id="10942" date="1998-03-11T00:00:00">
+      <items>
+        <item price="20.0000" quantity="28" />
+      </items>
+    </Orders>
+    <Orders id="11010" date="1998-04-09T00:00:00">
+      <items>
+        <item price="30.0000" quantity="20" />
+        <item price="4.5000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="11062" date="1998-04-30T00:00:00">
+      <items>
+        <item price="32.8000" quantity="10" />
+        <item price="15.0000" quantity="12" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="RICAR" country="Brazil" contactName="Janete Limeira" contactTitle="Assistant Sales Agent">
+    <Orders id="10287" date="1996-08-22T00:00:00">
+      <items>
+        <item price="13.9000" quantity="40" />
+        <item price="11.2000" quantity="20" />
+        <item price="9.6000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10299" date="1996-09-06T00:00:00">
+      <items>
+        <item price="7.3000" quantity="15" />
+        <item price="12.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10447" date="1997-02-14T00:00:00">
+      <items>
+        <item price="7.3000" quantity="40" />
+        <item price="16.8000" quantity="35" />
+        <item price="17.2000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10481" date="1997-03-20T00:00:00">
+      <items>
+        <item price="16.0000" quantity="24" />
+        <item price="27.2000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10563" date="1997-06-10T00:00:00">
+      <items>
+        <item price="19.0000" quantity="25" />
+        <item price="7.0000" quantity="70" />
+      </items>
+    </Orders>
+    <Orders id="10622" date="1997-08-06T00:00:00">
+      <items>
+        <item price="19.0000" quantity="20" />
+        <item price="12.5000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10648" date="1997-08-28T00:00:00">
+      <items>
+        <item price="21.0000" quantity="15" />
+        <item price="4.5000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10813" date="1998-01-05T00:00:00">
+      <items>
+        <item price="19.0000" quantity="12" />
+        <item price="12.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10851" date="1998-01-26T00:00:00">
+      <items>
+        <item price="19.0000" quantity="5" />
+        <item price="14.0000" quantity="10" />
+        <item price="19.5000" quantity="10" />
+        <item price="55.0000" quantity="42" />
+      </items>
+    </Orders>
+    <Orders id="10877" date="1998-02-09T00:00:00">
+      <items>
+        <item price="17.4500" quantity="30" />
+        <item price="62.5000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="11059" date="1998-04-29T00:00:00">
+      <items>
+        <item price="6.0000" quantity="30" />
+        <item price="39.0000" quantity="12" />
+        <item price="34.0000" quantity="35" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="RICSU" country="Switzerland" contactName="Michael Holz" contactTitle="Sales Manager">
+    <Orders id="10255" date="1996-07-12T00:00:00">
+      <items>
+        <item price="15.2000" quantity="20" />
+        <item price="13.9000" quantity="35" />
+        <item price="15.2000" quantity="25" />
+        <item price="44.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10419" date="1997-01-20T00:00:00">
+      <items>
+        <item price="27.2000" quantity="60" />
+        <item price="28.8000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10537" date="1997-05-14T00:00:00">
+      <items>
+        <item price="12.5000" quantity="30" />
+        <item price="53.0000" quantity="6" />
+        <item price="13.2500" quantity="20" />
+        <item price="34.8000" quantity="21" />
+        <item price="15.0000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10666" date="1997-09-12T00:00:00">
+      <items>
+        <item price="123.7900" quantity="36" />
+        <item price="21.0500" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10751" date="1997-11-24T00:00:00">
+      <items>
+        <item price="31.2300" quantity="12" />
+        <item price="25.8900" quantity="30" />
+        <item price="16.2500" quantity="20" />
+        <item price="15.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10758" date="1997-11-28T00:00:00">
+      <items>
+        <item price="31.2300" quantity="20" />
+        <item price="7.0000" quantity="60" />
+        <item price="15.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10931" date="1998-03-06T00:00:00">
+      <items>
+        <item price="6.0000" quantity="42" />
+        <item price="19.5000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10951" date="1998-03-16T00:00:00">
+      <items>
+        <item price="2.5000" quantity="15" />
+        <item price="9.6500" quantity="6" />
+        <item price="7.7500" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="11033" date="1998-04-17T00:00:00">
+      <items>
+        <item price="32.8000" quantity="70" />
+        <item price="36.0000" quantity="36" />
+      </items>
+    </Orders>
+    <Orders id="11075" date="1998-05-06T00:00:00">
+      <items>
+        <item price="19.0000" quantity="10" />
+        <item price="12.0000" quantity="30" />
+        <item price="18.0000" quantity="2" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="ROMEY" country="Spain" contactName="Alejandra Camino" contactTitle="Accounting Manager">
+    <Orders id="10281" date="1996-08-14T00:00:00">
+      <items>
+        <item price="7.3000" quantity="1" />
+        <item price="3.6000" quantity="6" />
+        <item price="14.4000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10282" date="1996-08-15T00:00:00">
+      <items>
+        <item price="20.7000" quantity="6" />
+        <item price="15.6000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10306" date="1996-09-16T00:00:00">
+      <items>
+        <item price="20.7000" quantity="10" />
+        <item price="26.2000" quantity="10" />
+        <item price="5.9000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10917" date="1998-03-02T00:00:00">
+      <items>
+        <item price="25.8900" quantity="1" />
+        <item price="34.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="11013" date="1998-04-09T00:00:00">
+      <items>
+        <item price="9.0000" quantity="10" />
+        <item price="14.0000" quantity="4" />
+        <item price="9.5000" quantity="20" />
+        <item price="12.5000" quantity="2" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="SANTG" country="Norway" contactName="Jonas Bergulfsen" contactTitle="Owner">
+    <Orders id="10387" date="1996-12-18T00:00:00">
+      <items>
+        <item price="3.6000" quantity="15" />
+        <item price="36.4000" quantity="6" />
+        <item price="44.0000" quantity="12" />
+        <item price="17.2000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10520" date="1997-04-29T00:00:00">
+      <items>
+        <item price="4.5000" quantity="8" />
+        <item price="32.8000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10639" date="1997-08-20T00:00:00">
+      <items>
+        <item price="62.5000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10831" date="1998-01-14T00:00:00">
+      <items>
+        <item price="9.2000" quantity="2" />
+        <item price="18.0000" quantity="8" />
+        <item price="263.5000" quantity="8" />
+        <item price="46.0000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10909" date="1998-02-26T00:00:00">
+      <items>
+        <item price="30.0000" quantity="12" />
+        <item price="17.4500" quantity="15" />
+        <item price="9.6500" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="11015" date="1998-04-10T00:00:00">
+      <items>
+        <item price="25.8900" quantity="15" />
+        <item price="13.0000" quantity="18" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="SAVEA" country="USA" contactName="Jose Pavarotti" contactTitle="Sales Representative">
+    <Orders id="10324" date="1996-10-08T00:00:00">
+      <items>
+        <item price="13.9000" quantity="21" />
+        <item price="14.4000" quantity="70" />
+        <item price="9.6000" quantity="30" />
+        <item price="44.0000" quantity="40" />
+        <item price="35.1000" quantity="80" />
+      </items>
+    </Orders>
+    <Orders id="10393" date="1996-12-25T00:00:00">
+      <items>
+        <item price="15.2000" quantity="25" />
+        <item price="18.6000" quantity="42" />
+        <item price="11.2000" quantity="7" />
+        <item price="24.9000" quantity="70" />
+        <item price="10.0000" quantity="32" />
+      </items>
+    </Orders>
+    <Orders id="10398" date="1996-12-30T00:00:00">
+      <items>
+        <item price="14.4000" quantity="30" />
+        <item price="19.2000" quantity="120" />
+      </items>
+    </Orders>
+    <Orders id="10440" date="1997-02-10T00:00:00">
+      <items>
+        <item price="15.2000" quantity="45" />
+        <item price="13.9000" quantity="49" />
+        <item price="99.0000" quantity="24" />
+        <item price="22.8000" quantity="90" />
+      </items>
+    </Orders>
+    <Orders id="10452" date="1997-02-20T00:00:00">
+      <items>
+        <item price="36.4000" quantity="15" />
+        <item price="15.5000" quantity="100" />
+      </items>
+    </Orders>
+    <Orders id="10510" date="1997-04-18T00:00:00">
+      <items>
+        <item price="123.7900" quantity="36" />
+        <item price="7.7500" quantity="36" />
+      </items>
+    </Orders>
+    <Orders id="10555" date="1997-06-02T00:00:00">
+      <items>
+        <item price="23.2500" quantity="30" />
+        <item price="9.2000" quantity="35" />
+        <item price="4.5000" quantity="18" />
+        <item price="53.0000" quantity="20" />
+        <item price="38.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10603" date="1997-07-18T00:00:00">
+      <items>
+        <item price="21.0000" quantity="48" />
+        <item price="20.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10607" date="1997-07-22T00:00:00">
+      <items>
+        <item price="30.0000" quantity="45" />
+        <item price="39.0000" quantity="100" />
+        <item price="2.5000" quantity="14" />
+        <item price="18.4000" quantity="42" />
+        <item price="34.8000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10612" date="1997-07-28T00:00:00">
+      <items>
+        <item price="31.0000" quantity="70" />
+        <item price="19.0000" quantity="55" />
+        <item price="20.0000" quantity="18" />
+        <item price="34.0000" quantity="40" />
+        <item price="18.0000" quantity="80" />
+      </items>
+    </Orders>
+    <Orders id="10627" date="1997-08-11T00:00:00">
+      <items>
+        <item price="49.3000" quantity="15" />
+        <item price="15.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10657" date="1997-09-04T00:00:00">
+      <items>
+        <item price="15.5000" quantity="50" />
+        <item price="9.6500" quantity="24" />
+        <item price="12.0000" quantity="45" />
+        <item price="9.5000" quantity="10" />
+        <item price="38.0000" quantity="45" />
+        <item price="34.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10678" date="1997-09-23T00:00:00">
+      <items>
+        <item price="38.0000" quantity="100" />
+        <item price="2.5000" quantity="30" />
+        <item price="9.6500" quantity="120" />
+        <item price="7.4500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10700" date="1997-10-10T00:00:00">
+      <items>
+        <item price="18.0000" quantity="5" />
+        <item price="14.0000" quantity="12" />
+        <item price="12.5000" quantity="40" />
+        <item price="21.5000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10711" date="1997-10-21T00:00:00">
+      <items>
+        <item price="9.2000" quantity="12" />
+        <item price="9.6500" quantity="42" />
+        <item price="32.8000" quantity="120" />
+      </items>
+    </Orders>
+    <Orders id="10713" date="1997-10-22T00:00:00">
+      <items>
+        <item price="31.0000" quantity="18" />
+        <item price="31.2300" quantity="30" />
+        <item price="9.5000" quantity="110" />
+        <item price="12.0000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10714" date="1997-10-22T00:00:00">
+      <items>
+        <item price="19.0000" quantity="30" />
+        <item price="39.0000" quantity="27" />
+        <item price="9.5000" quantity="50" />
+        <item price="38.0000" quantity="18" />
+        <item price="13.2500" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10722" date="1997-10-29T00:00:00">
+      <items>
+        <item price="19.0000" quantity="3" />
+        <item price="12.5000" quantity="50" />
+        <item price="12.5000" quantity="45" />
+        <item price="7.7500" quantity="42" />
+      </items>
+    </Orders>
+    <Orders id="10748" date="1997-11-20T00:00:00">
+      <items>
+        <item price="9.0000" quantity="44" />
+        <item price="18.4000" quantity="40" />
+        <item price="38.0000" quantity="28" />
+      </items>
+    </Orders>
+    <Orders id="10757" date="1997-11-27T00:00:00">
+      <items>
+        <item price="14.0000" quantity="30" />
+        <item price="55.0000" quantity="7" />
+        <item price="49.3000" quantity="30" />
+        <item price="33.2500" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10815" date="1998-01-05T00:00:00">
+      <items>
+        <item price="2.5000" quantity="16" />
+      </items>
+    </Orders>
+    <Orders id="10847" date="1998-01-22T00:00:00">
+      <items>
+        <item price="18.0000" quantity="80" />
+        <item price="9.2000" quantity="12" />
+        <item price="26.0000" quantity="60" />
+        <item price="9.5000" quantity="36" />
+        <item price="34.0000" quantity="45" />
+        <item price="21.5000" quantity="55" />
+      </items>
+    </Orders>
+    <Orders id="10882" date="1998-02-11T00:00:00">
+      <items>
+        <item price="14.0000" quantity="25" />
+        <item price="20.0000" quantity="20" />
+        <item price="7.4500" quantity="32" />
+      </items>
+    </Orders>
+    <Orders id="10894" date="1998-02-18T00:00:00">
+      <items>
+        <item price="6.0000" quantity="28" />
+        <item price="36.0000" quantity="50" />
+        <item price="7.7500" quantity="120" />
+      </items>
+    </Orders>
+    <Orders id="10941" date="1998-03-11T00:00:00">
+      <items>
+        <item price="12.5000" quantity="44" />
+        <item price="49.3000" quantity="30" />
+        <item price="12.5000" quantity="80" />
+        <item price="34.8000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10983" date="1998-03-27T00:00:00">
+      <items>
+        <item price="6.0000" quantity="84" />
+        <item price="19.5000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10984" date="1998-03-30T00:00:00">
+      <items>
+        <item price="17.4500" quantity="55" />
+        <item price="4.5000" quantity="20" />
+        <item price="19.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="11002" date="1998-04-06T00:00:00">
+      <items>
+        <item price="6.0000" quantity="56" />
+        <item price="18.0000" quantity="15" />
+        <item price="14.0000" quantity="24" />
+        <item price="24.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="11030" date="1998-04-17T00:00:00">
+      <items>
+        <item price="19.0000" quantity="100" />
+        <item price="21.3500" quantity="70" />
+        <item price="123.7900" quantity="60" />
+        <item price="55.0000" quantity="100" />
+      </items>
+    </Orders>
+    <Orders id="11031" date="1998-04-17T00:00:00">
+      <items>
+        <item price="18.0000" quantity="45" />
+        <item price="6.0000" quantity="80" />
+        <item price="4.5000" quantity="21" />
+        <item price="33.2500" quantity="20" />
+        <item price="21.5000" quantity="16" />
+      </items>
+    </Orders>
+    <Orders id="11064" date="1998-05-01T00:00:00">
+      <items>
+        <item price="39.0000" quantity="77" />
+        <item price="9.6500" quantity="12" />
+        <item price="32.8000" quantity="25" />
+        <item price="24.0000" quantity="4" />
+        <item price="12.5000" quantity="55" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="SEVES" country="UK" contactName="Hari Kumar" contactTitle="Sales Manager">
+    <Orders id="10359" date="1996-11-21T00:00:00">
+      <items>
+        <item price="13.9000" quantity="56" />
+        <item price="10.0000" quantity="70" />
+        <item price="27.2000" quantity="80" />
+      </items>
+    </Orders>
+    <Orders id="10377" date="1996-12-09T00:00:00">
+      <items>
+        <item price="36.4000" quantity="20" />
+        <item price="14.4000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10388" date="1996-12-19T00:00:00">
+      <items>
+        <item price="7.6000" quantity="15" />
+        <item price="5.6000" quantity="20" />
+        <item price="26.2000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10472" date="1997-03-12T00:00:00">
+      <items>
+        <item price="3.6000" quantity="80" />
+        <item price="42.4000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10523" date="1997-05-01T00:00:00">
+      <items>
+        <item price="39.0000" quantity="25" />
+        <item price="81.0000" quantity="15" />
+        <item price="26.0000" quantity="18" />
+        <item price="9.6500" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10547" date="1997-05-23T00:00:00">
+      <items>
+        <item price="32.0000" quantity="24" />
+        <item price="19.0000" quantity="60" />
+      </items>
+    </Orders>
+    <Orders id="10800" date="1997-12-26T00:00:00">
+      <items>
+        <item price="21.0000" quantity="50" />
+        <item price="53.0000" quantity="10" />
+        <item price="7.4500" quantity="7" />
+      </items>
+    </Orders>
+    <Orders id="10804" date="1997-12-30T00:00:00">
+      <items>
+        <item price="31.0000" quantity="36" />
+        <item price="45.6000" quantity="24" />
+        <item price="20.0000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10869" date="1998-02-04T00:00:00">
+      <items>
+        <item price="18.0000" quantity="40" />
+        <item price="21.0000" quantity="10" />
+        <item price="9.0000" quantity="50" />
+        <item price="12.5000" quantity="20" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="SIMOB" country="Denmark" contactName="Jytte Petersen" contactTitle="Owner">
+    <Orders id="10341" date="1996-10-29T00:00:00">
+      <items>
+        <item price="2.0000" quantity="8" />
+        <item price="44.0000" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10417" date="1997-01-16T00:00:00">
+      <items>
+        <item price="210.8000" quantity="50" />
+        <item price="9.6000" quantity="2" />
+        <item price="10.0000" quantity="36" />
+        <item price="10.4000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="10556" date="1997-06-03T00:00:00">
+      <items>
+        <item price="34.8000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10642" date="1997-08-22T00:00:00">
+      <items>
+        <item price="10.0000" quantity="30" />
+        <item price="28.5000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10669" date="1997-09-15T00:00:00">
+      <items>
+        <item price="19.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10802" date="1997-12-29T00:00:00">
+      <items>
+        <item price="25.8900" quantity="25" />
+        <item price="53.0000" quantity="30" />
+        <item price="24.0000" quantity="60" />
+        <item price="49.3000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="11074" date="1998-05-06T00:00:00">
+      <items>
+        <item price="17.4500" quantity="14" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="SPECD" country="France" contactName="Dominique Perrier" contactTitle="Marketing Manager">
+    <Orders id="10738" date="1997-11-12T00:00:00">
+      <items>
+        <item price="17.4500" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10907" date="1998-02-25T00:00:00">
+      <items>
+        <item price="7.7500" quantity="14" />
+      </items>
+    </Orders>
+    <Orders id="10964" date="1998-03-20T00:00:00">
+      <items>
+        <item price="62.5000" quantity="6" />
+        <item price="263.5000" quantity="5" />
+        <item price="36.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="11043" date="1998-04-22T00:00:00">
+      <items>
+        <item price="21.0000" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="SPLIR" country="USA" contactName="Art Braunschweiger" contactTitle="Sales Manager">
+    <Orders id="10271" date="1996-08-01T00:00:00">
+      <items>
+        <item price="2.0000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10329" date="1996-10-15T00:00:00">
+      <items>
+        <item price="7.3000" quantity="10" />
+        <item price="20.7000" quantity="8" />
+        <item price="210.8000" quantity="20" />
+        <item price="30.4000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10349" date="1996-11-08T00:00:00">
+      <items>
+        <item price="5.9000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10369" date="1996-12-02T00:00:00">
+      <items>
+        <item price="99.0000" quantity="20" />
+        <item price="30.4000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10385" date="1996-12-17T00:00:00">
+      <items>
+        <item price="24.0000" quantity="10" />
+        <item price="27.2000" quantity="20" />
+        <item price="10.0000" quantity="8" />
+      </items>
+    </Orders>
+    <Orders id="10432" date="1997-01-31T00:00:00">
+      <items>
+        <item price="24.9000" quantity="10" />
+        <item price="5.9000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10756" date="1997-11-27T00:00:00">
+      <items>
+        <item price="62.5000" quantity="21" />
+        <item price="19.0000" quantity="20" />
+        <item price="12.5000" quantity="6" />
+        <item price="36.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10821" date="1998-01-08T00:00:00">
+      <items>
+        <item price="18.0000" quantity="20" />
+        <item price="53.0000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10974" date="1998-03-25T00:00:00">
+      <items>
+        <item price="43.9000" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="SUPRD" country="Belgium" contactName="Pascale Cartrain" contactTitle="Accounting Manager">
+    <Orders id="10252" date="1996-07-09T00:00:00">
+      <items>
+        <item price="64.8000" quantity="40" />
+        <item price="2.0000" quantity="25" />
+        <item price="27.2000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10302" date="1996-09-10T00:00:00">
+      <items>
+        <item price="31.2000" quantity="40" />
+        <item price="36.4000" quantity="28" />
+        <item price="36.8000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10458" date="1997-02-26T00:00:00">
+      <items>
+        <item price="24.9000" quantity="30" />
+        <item price="36.4000" quantity="30" />
+        <item price="36.8000" quantity="20" />
+        <item price="30.4000" quantity="15" />
+        <item price="17.2000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10463" date="1997-03-04T00:00:00">
+      <items>
+        <item price="7.3000" quantity="21" />
+        <item price="11.2000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10475" date="1997-03-14T00:00:00">
+      <items>
+        <item price="10.0000" quantity="35" />
+        <item price="13.6000" quantity="60" />
+        <item price="14.4000" quantity="42" />
+      </items>
+    </Orders>
+    <Orders id="10767" date="1997-12-05T00:00:00">
+      <items>
+        <item price="14.0000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10841" date="1998-01-20T00:00:00">
+      <items>
+        <item price="31.0000" quantity="16" />
+        <item price="38.0000" quantity="30" />
+        <item price="55.0000" quantity="50" />
+        <item price="13.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10846" date="1998-01-22T00:00:00">
+      <items>
+        <item price="22.0000" quantity="21" />
+        <item price="15.0000" quantity="30" />
+        <item price="10.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10885" date="1998-02-12T00:00:00">
+      <items>
+        <item price="19.0000" quantity="20" />
+        <item price="4.5000" quantity="12" />
+        <item price="15.0000" quantity="30" />
+        <item price="13.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10930" date="1998-03-06T00:00:00">
+      <items>
+        <item price="10.0000" quantity="36" />
+        <item price="43.9000" quantity="25" />
+        <item price="24.0000" quantity="25" />
+        <item price="13.2500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="11035" date="1998-04-20T00:00:00">
+      <items>
+        <item price="18.0000" quantity="10" />
+        <item price="18.0000" quantity="60" />
+        <item price="14.0000" quantity="30" />
+        <item price="7.4500" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="11038" date="1998-04-21T00:00:00">
+      <items>
+        <item price="18.4000" quantity="5" />
+        <item price="7.0000" quantity="2" />
+        <item price="21.5000" quantity="30" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="THEBI" country="USA" contactName="Liz Nixon" contactTitle="Marketing Manager">
+    <Orders id="10310" date="1996-09-20T00:00:00">
+      <items>
+        <item price="13.9000" quantity="10" />
+        <item price="39.4000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10708" date="1997-10-17T00:00:00">
+      <items>
+        <item price="21.3500" quantity="4" />
+        <item price="19.0000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10805" date="1997-12-30T00:00:00">
+      <items>
+        <item price="14.0000" quantity="10" />
+        <item price="263.5000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10992" date="1998-04-01T00:00:00">
+      <items>
+        <item price="34.8000" quantity="2" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="THECR" country="USA" contactName="Liu Wong" contactTitle="Marketing Assistant">
+    <Orders id="10624" date="1997-08-07T00:00:00">
+      <items>
+        <item price="45.6000" quantity="10" />
+        <item price="123.7900" quantity="6" />
+        <item price="19.4500" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10775" date="1997-12-12T00:00:00">
+      <items>
+        <item price="31.0000" quantity="6" />
+        <item price="14.0000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="11003" date="1998-04-06T00:00:00">
+      <items>
+        <item price="18.0000" quantity="4" />
+        <item price="18.4000" quantity="10" />
+        <item price="7.0000" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="TOMSP" country="Germany" contactName="Karin Josephs" contactTitle="Marketing Manager">
+    <Orders id="10249" date="1996-07-05T00:00:00">
+      <items>
+        <item price="18.6000" quantity="9" />
+        <item price="42.4000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10438" date="1997-02-06T00:00:00">
+      <items>
+        <item price="7.3000" quantity="15" />
+        <item price="11.2000" quantity="20" />
+        <item price="15.6000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10446" date="1997-02-14T00:00:00">
+      <items>
+        <item price="7.3000" quantity="12" />
+        <item price="3.6000" quantity="20" />
+        <item price="10.0000" quantity="3" />
+        <item price="5.6000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10548" date="1997-05-26T00:00:00">
+      <items>
+        <item price="14.0000" quantity="10" />
+        <item price="9.6500" quantity="14" />
+      </items>
+    </Orders>
+    <Orders id="10608" date="1997-07-23T00:00:00">
+      <items>
+        <item price="38.0000" quantity="28" />
+      </items>
+    </Orders>
+    <Orders id="10967" date="1998-03-23T00:00:00">
+      <items>
+        <item price="9.2000" quantity="12" />
+        <item price="20.0000" quantity="40" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="TORTU" country="Mexico" contactName="Miguel Angel Paolino" contactTitle="Owner">
+    <Orders id="10276" date="1996-08-08T00:00:00">
+      <items>
+        <item price="24.8000" quantity="15" />
+        <item price="4.8000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10293" date="1996-08-29T00:00:00">
+      <items>
+        <item price="50.0000" quantity="12" />
+        <item price="3.6000" quantity="10" />
+        <item price="35.1000" quantity="5" />
+        <item price="6.2000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10304" date="1996-09-12T00:00:00">
+      <items>
+        <item price="16.0000" quantity="30" />
+        <item price="44.0000" quantity="10" />
+        <item price="17.2000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10319" date="1996-10-02T00:00:00">
+      <items>
+        <item price="31.2000" quantity="8" />
+        <item price="36.4000" quantity="14" />
+        <item price="14.4000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10518" date="1997-04-25T00:00:00">
+      <items>
+        <item price="4.5000" quantity="5" />
+        <item price="263.5000" quantity="15" />
+        <item price="19.4500" quantity="9" />
+      </items>
+    </Orders>
+    <Orders id="10576" date="1997-06-23T00:00:00">
+      <items>
+        <item price="18.0000" quantity="10" />
+        <item price="12.5000" quantity="20" />
+        <item price="19.4500" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10676" date="1997-09-22T00:00:00">
+      <items>
+        <item price="31.0000" quantity="2" />
+        <item price="9.2000" quantity="7" />
+        <item price="19.4500" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10842" date="1998-01-20T00:00:00">
+      <items>
+        <item price="21.0000" quantity="15" />
+        <item price="46.0000" quantity="5" />
+        <item price="12.5000" quantity="20" />
+        <item price="15.0000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10915" date="1998-02-27T00:00:00">
+      <items>
+        <item price="39.0000" quantity="10" />
+        <item price="2.5000" quantity="30" />
+        <item price="7.4500" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="11069" date="1998-05-04T00:00:00">
+      <items>
+        <item price="18.0000" quantity="20" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="TRADH" country="Brazil" contactName="Anabela Domingues" contactTitle="Sales Representative">
+    <Orders id="10292" date="1996-08-28T00:00:00">
+      <items>
+        <item price="64.8000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10496" date="1997-04-04T00:00:00">
+      <items>
+        <item price="10.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10606" date="1997-07-22T00:00:00">
+      <items>
+        <item price="22.0000" quantity="20" />
+        <item price="24.0000" quantity="20" />
+        <item price="49.3000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10830" date="1998-01-13T00:00:00">
+      <items>
+        <item price="25.0000" quantity="6" />
+        <item price="18.0000" quantity="28" />
+        <item price="34.0000" quantity="30" />
+        <item price="12.5000" quantity="24" />
+      </items>
+    </Orders>
+    <Orders id="10834" date="1998-01-15T00:00:00">
+      <items>
+        <item price="123.7900" quantity="8" />
+        <item price="25.8900" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10839" date="1998-01-19T00:00:00">
+      <items>
+        <item price="13.2500" quantity="30" />
+        <item price="34.8000" quantity="15" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="TRAIH" country="USA" contactName="Helvetius Nagy" contactTitle="Sales Associate">
+    <Orders id="10574" date="1997-06-19T00:00:00">
+      <items>
+        <item price="2.5000" quantity="14" />
+        <item price="18.4000" quantity="2" />
+        <item price="49.3000" quantity="10" />
+        <item price="33.2500" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10577" date="1997-06-23T00:00:00">
+      <items>
+        <item price="18.0000" quantity="10" />
+        <item price="7.7500" quantity="20" />
+        <item price="13.0000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10822" date="1998-01-08T00:00:00">
+      <items>
+        <item price="49.3000" quantity="3" />
+        <item price="15.0000" quantity="6" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="VAFFE" country="Denmark" contactName="Palle Ibsen" contactTitle="Sales Manager">
+    <Orders id="10367" date="1996-11-28T00:00:00">
+      <items>
+        <item price="11.2000" quantity="36" />
+        <item price="5.9000" quantity="18" />
+        <item price="16.8000" quantity="15" />
+        <item price="10.4000" quantity="7" />
+      </items>
+    </Orders>
+    <Orders id="10399" date="1996-12-31T00:00:00">
+      <items>
+        <item price="10.0000" quantity="60" />
+        <item price="17.2000" quantity="30" />
+        <item price="14.4000" quantity="35" />
+        <item price="10.4000" quantity="14" />
+      </items>
+    </Orders>
+    <Orders id="10465" date="1997-03-05T00:00:00">
+      <items>
+        <item price="3.6000" quantity="25" />
+        <item price="99.0000" quantity="18" />
+        <item price="14.7000" quantity="20" />
+        <item price="7.6000" quantity="30" />
+        <item price="13.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10591" date="1997-07-07T00:00:00">
+      <items>
+        <item price="10.0000" quantity="14" />
+        <item price="30.0000" quantity="10" />
+        <item price="7.4500" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10602" date="1997-07-17T00:00:00">
+      <items>
+        <item price="13.0000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10688" date="1997-10-01T00:00:00">
+      <items>
+        <item price="31.0000" quantity="18" />
+        <item price="45.6000" quantity="60" />
+        <item price="14.0000" quantity="14" />
+      </items>
+    </Orders>
+    <Orders id="10744" date="1997-11-17T00:00:00">
+      <items>
+        <item price="18.4000" quantity="50" />
+      </items>
+    </Orders>
+    <Orders id="10769" date="1997-12-08T00:00:00">
+      <items>
+        <item price="9.6500" quantity="30" />
+        <item price="7.0000" quantity="15" />
+        <item price="28.5000" quantity="20" />
+        <item price="49.3000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10921" date="1998-03-03T00:00:00">
+      <items>
+        <item price="18.0000" quantity="10" />
+        <item price="43.9000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10946" date="1998-03-12T00:00:00">
+      <items>
+        <item price="31.0000" quantity="25" />
+        <item price="4.5000" quantity="25" />
+        <item price="13.0000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10994" date="1998-04-02T00:00:00">
+      <items>
+        <item price="55.0000" quantity="18" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="VICTE" country="France" contactName="Mary Saveley" contactTitle="Sales Agent">
+    <Orders id="10251" date="1996-07-08T00:00:00">
+      <items>
+        <item price="16.8000" quantity="6" />
+        <item price="15.6000" quantity="15" />
+        <item price="16.8000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10334" date="1996-10-21T00:00:00">
+      <items>
+        <item price="5.6000" quantity="8" />
+        <item price="10.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10450" date="1997-02-19T00:00:00">
+      <items>
+        <item price="24.8000" quantity="20" />
+        <item price="5.9000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10459" date="1997-02-27T00:00:00">
+      <items>
+        <item price="24.0000" quantity="16" />
+        <item price="9.6000" quantity="20" />
+        <item price="27.8000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10478" date="1997-03-18T00:00:00">
+      <items>
+        <item price="24.8000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10546" date="1997-05-23T00:00:00">
+      <items>
+        <item price="30.0000" quantity="10" />
+        <item price="18.0000" quantity="30" />
+        <item price="49.3000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10806" date="1997-12-31T00:00:00">
+      <items>
+        <item price="19.0000" quantity="20" />
+        <item price="21.0500" quantity="2" />
+        <item price="10.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10814" date="1998-01-05T00:00:00">
+      <items>
+        <item price="9.6500" quantity="20" />
+        <item price="46.0000" quantity="20" />
+        <item price="12.7500" quantity="8" />
+        <item price="28.5000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10843" date="1998-01-21T00:00:00">
+      <items>
+        <item price="53.0000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10850" date="1998-01-23T00:00:00">
+      <items>
+        <item price="14.0000" quantity="20" />
+        <item price="2.5000" quantity="4" />
+        <item price="15.0000" quantity="30" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="VINET" country="France" contactName="Paul Henriot" contactTitle="Accounting Manager">
+    <Orders id="10248" date="1996-07-04T00:00:00">
+      <items>
+        <item price="14.0000" quantity="12" />
+        <item price="9.8000" quantity="10" />
+        <item price="34.8000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10274" date="1996-08-06T00:00:00">
+      <items>
+        <item price="17.2000" quantity="20" />
+        <item price="27.8000" quantity="7" />
+      </items>
+    </Orders>
+    <Orders id="10295" date="1996-09-02T00:00:00">
+      <items>
+        <item price="30.4000" quantity="4" />
+      </items>
+    </Orders>
+    <Orders id="10737" date="1997-11-11T00:00:00">
+      <items>
+        <item price="6.0000" quantity="4" />
+        <item price="9.6500" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10739" date="1997-11-12T00:00:00">
+      <items>
+        <item price="19.0000" quantity="6" />
+        <item price="7.0000" quantity="18" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="WANDK" country="Germany" contactName="Rita Muller" contactTitle="Sales Representative">
+    <Orders id="10301" date="1996-09-09T00:00:00">
+      <items>
+        <item price="14.7000" quantity="10" />
+        <item price="30.4000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10312" date="1996-09-23T00:00:00">
+      <items>
+        <item price="36.4000" quantity="4" />
+        <item price="36.8000" quantity="24" />
+        <item price="26.2000" quantity="20" />
+        <item price="6.2000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10348" date="1996-11-07T00:00:00">
+      <items>
+        <item price="14.4000" quantity="15" />
+        <item price="7.2000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10356" date="1996-11-18T00:00:00">
+      <items>
+        <item price="10.0000" quantity="30" />
+        <item price="19.2000" quantity="12" />
+        <item price="28.8000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10513" date="1997-04-22T00:00:00">
+      <items>
+        <item price="10.0000" quantity="40" />
+        <item price="32.0000" quantity="50" />
+        <item price="28.5000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10632" date="1997-08-14T00:00:00">
+      <items>
+        <item price="19.0000" quantity="30" />
+        <item price="2.5000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10640" date="1997-08-21T00:00:00">
+      <items>
+        <item price="36.0000" quantity="20" />
+        <item price="15.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10651" date="1997-09-01T00:00:00">
+      <items>
+        <item price="9.2000" quantity="12" />
+        <item price="21.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10668" date="1997-09-15T00:00:00">
+      <items>
+        <item price="12.5000" quantity="8" />
+        <item price="24.0000" quantity="4" />
+        <item price="33.2500" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="11046" date="1998-04-23T00:00:00">
+      <items>
+        <item price="38.0000" quantity="20" />
+        <item price="32.0000" quantity="15" />
+        <item price="18.0000" quantity="18" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="WARTH" country="Finland" contactName="Pirkko Koskitalo" contactTitle="Accounting Manager">
+    <Orders id="10266" date="1996-07-26T00:00:00">
+      <items>
+        <item price="30.4000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10270" date="1996-08-01T00:00:00">
+      <items>
+        <item price="15.2000" quantity="30" />
+        <item price="36.8000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10320" date="1996-10-03T00:00:00">
+      <items>
+        <item price="17.2000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10333" date="1996-10-18T00:00:00">
+      <items>
+        <item price="18.6000" quantity="10" />
+        <item price="8.0000" quantity="10" />
+        <item price="17.2000" quantity="40" />
+      </items>
+    </Orders>
+    <Orders id="10412" date="1997-01-13T00:00:00">
+      <items>
+        <item price="18.6000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10416" date="1997-01-16T00:00:00">
+      <items>
+        <item price="7.3000" quantity="20" />
+        <item price="26.2000" quantity="10" />
+        <item price="15.6000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10437" date="1997-02-05T00:00:00">
+      <items>
+        <item price="26.2000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10455" date="1997-02-24T00:00:00">
+      <items>
+        <item price="14.4000" quantity="20" />
+        <item price="26.2000" quantity="50" />
+        <item price="22.8000" quantity="25" />
+        <item price="17.2000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10526" date="1997-05-05T00:00:00">
+      <items>
+        <item price="18.0000" quantity="8" />
+        <item price="6.0000" quantity="10" />
+        <item price="38.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10553" date="1997-05-30T00:00:00">
+      <items>
+        <item price="21.0000" quantity="15" />
+        <item price="17.4500" quantity="14" />
+        <item price="21.0000" quantity="24" />
+        <item price="12.5000" quantity="30" />
+        <item price="18.0000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10583" date="1997-06-30T00:00:00">
+      <items>
+        <item price="123.7900" quantity="10" />
+        <item price="34.0000" quantity="24" />
+        <item price="36.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10636" date="1997-08-19T00:00:00">
+      <items>
+        <item price="22.0000" quantity="25" />
+        <item price="13.2500" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10750" date="1997-11-21T00:00:00">
+      <items>
+        <item price="23.2500" quantity="5" />
+        <item price="9.5000" quantity="40" />
+        <item price="55.0000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10781" date="1997-12-17T00:00:00">
+      <items>
+        <item price="7.4500" quantity="3" />
+        <item price="38.0000" quantity="20" />
+        <item price="10.0000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="11025" date="1998-04-15T00:00:00">
+      <items>
+        <item price="18.0000" quantity="10" />
+        <item price="6.0000" quantity="20" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="WELLI" country="Brazil" contactName="Paula Parente" contactTitle="Sales Manager">
+    <Orders id="10256" date="1996-07-15T00:00:00">
+      <items>
+        <item price="26.2000" quantity="15" />
+        <item price="10.4000" quantity="12" />
+      </items>
+    </Orders>
+    <Orders id="10420" date="1997-01-21T00:00:00">
+      <items>
+        <item price="77.6000" quantity="20" />
+        <item price="4.8000" quantity="2" />
+        <item price="12.0000" quantity="8" />
+        <item price="12.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10585" date="1997-07-01T00:00:00">
+      <items>
+        <item price="9.5000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10644" date="1997-08-25T00:00:00">
+      <items>
+        <item price="62.5000" quantity="4" />
+        <item price="46.0000" quantity="20" />
+        <item price="12.0000" quantity="21" />
+      </items>
+    </Orders>
+    <Orders id="10803" date="1997-12-30T00:00:00">
+      <items>
+        <item price="9.2000" quantity="24" />
+        <item price="14.0000" quantity="15" />
+        <item price="55.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10809" date="1998-01-01T00:00:00">
+      <items>
+        <item price="7.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10900" date="1998-02-20T00:00:00">
+      <items>
+        <item price="15.0000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10905" date="1998-02-24T00:00:00">
+      <items>
+        <item price="18.0000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10935" date="1998-03-09T00:00:00">
+      <items>
+        <item price="18.0000" quantity="21" />
+        <item price="62.5000" quantity="4" />
+        <item price="9.0000" quantity="8" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="WHITC" country="USA" contactName="Karl Jablonski" contactTitle="Owner">
+    <Orders id="10269" date="1996-07-31T00:00:00">
+      <items>
+        <item price="2.0000" quantity="60" />
+        <item price="27.8000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10344" date="1996-11-01T00:00:00">
+      <items>
+        <item price="17.6000" quantity="35" />
+        <item price="32.0000" quantity="70" />
+      </items>
+    </Orders>
+    <Orders id="10469" date="1997-03-10T00:00:00">
+      <items>
+        <item price="15.2000" quantity="40" />
+        <item price="13.9000" quantity="35" />
+        <item price="15.5000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10483" date="1997-03-24T00:00:00">
+      <items>
+        <item price="11.2000" quantity="35" />
+        <item price="10.4000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10504" date="1997-04-11T00:00:00">
+      <items>
+        <item price="19.0000" quantity="12" />
+        <item price="10.0000" quantity="12" />
+        <item price="32.8000" quantity="10" />
+        <item price="28.5000" quantity="25" />
+      </items>
+    </Orders>
+    <Orders id="10596" date="1997-07-11T00:00:00">
+      <items>
+        <item price="38.0000" quantity="5" />
+        <item price="43.9000" quantity="24" />
+        <item price="7.7500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="10693" date="1997-10-06T00:00:00">
+      <items>
+        <item price="97.0000" quantity="6" />
+        <item price="7.4500" quantity="60" />
+        <item price="36.0000" quantity="30" />
+        <item price="15.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10696" date="1997-10-08T00:00:00">
+      <items>
+        <item price="39.0000" quantity="20" />
+        <item price="12.0000" quantity="18" />
+      </items>
+    </Orders>
+    <Orders id="10723" date="1997-10-30T00:00:00">
+      <items>
+        <item price="31.2300" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10740" date="1997-11-13T00:00:00">
+      <items>
+        <item price="45.6000" quantity="5" />
+        <item price="18.0000" quantity="35" />
+        <item price="9.5000" quantity="40" />
+        <item price="38.0000" quantity="14" />
+      </items>
+    </Orders>
+    <Orders id="10861" date="1998-01-30T00:00:00">
+      <items>
+        <item price="39.0000" quantity="42" />
+        <item price="62.5000" quantity="20" />
+        <item price="10.0000" quantity="40" />
+        <item price="2.5000" quantity="35" />
+        <item price="49.3000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10904" date="1998-02-24T00:00:00">
+      <items>
+        <item price="13.2500" quantity="15" />
+        <item price="49.3000" quantity="35" />
+      </items>
+    </Orders>
+    <Orders id="11032" date="1998-04-17T00:00:00">
+      <items>
+        <item price="19.0000" quantity="35" />
+        <item price="263.5000" quantity="25" />
+        <item price="55.0000" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="11066" date="1998-05-01T00:00:00">
+      <items>
+        <item price="17.4500" quantity="3" />
+        <item price="9.2000" quantity="42" />
+        <item price="14.0000" quantity="35" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="WILMK" country="Finland" contactName="Matti Karttunen" contactTitle="Owner/Marketing Assistant">
+    <Orders id="10615" date="1997-07-30T00:00:00">
+      <items>
+        <item price="24.0000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="10673" date="1997-09-18T00:00:00">
+      <items>
+        <item price="17.4500" quantity="3" />
+        <item price="14.0000" quantity="6" />
+        <item price="46.0000" quantity="6" />
+      </items>
+    </Orders>
+    <Orders id="10695" date="1997-10-07T00:00:00">
+      <items>
+        <item price="40.0000" quantity="10" />
+        <item price="38.0000" quantity="4" />
+        <item price="4.5000" quantity="20" />
+      </items>
+    </Orders>
+    <Orders id="10873" date="1998-02-06T00:00:00">
+      <items>
+        <item price="10.0000" quantity="20" />
+        <item price="45.6000" quantity="3" />
+      </items>
+    </Orders>
+    <Orders id="10879" date="1998-02-10T00:00:00">
+      <items>
+        <item price="18.4000" quantity="12" />
+        <item price="21.0500" quantity="10" />
+        <item price="18.0000" quantity="10" />
+      </items>
+    </Orders>
+    <Orders id="10910" date="1998-02-26T00:00:00">
+      <items>
+        <item price="9.2000" quantity="12" />
+        <item price="20.0000" quantity="10" />
+        <item price="28.5000" quantity="5" />
+      </items>
+    </Orders>
+    <Orders id="11005" date="1998-04-07T00:00:00">
+      <items>
+        <item price="18.0000" quantity="2" />
+        <item price="55.0000" quantity="10" />
+      </items>
+    </Orders>
+  </Customer>
+  <Customer id="WOLZA" country="Poland" contactName="Zbyszek Piestrzeniewicz" contactTitle="Owner">
+    <Orders id="10374" date="1996-12-05T00:00:00">
+      <items>
+        <item price="10.0000" quantity="30" />
+        <item price="10.6000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10611" date="1997-07-25T00:00:00">
+      <items>
+        <item price="18.0000" quantity="6" />
+        <item price="19.0000" quantity="10" />
+        <item price="34.0000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10792" date="1997-12-23T00:00:00">
+      <items>
+        <item price="19.0000" quantity="10" />
+        <item price="7.4500" quantity="3" />
+        <item price="12.5000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10870" date="1998-02-04T00:00:00">
+      <items>
+        <item price="18.0000" quantity="3" />
+        <item price="53.0000" quantity="2" />
+      </items>
+    </Orders>
+    <Orders id="10906" date="1998-02-25T00:00:00">
+      <items>
+        <item price="28.5000" quantity="15" />
+      </items>
+    </Orders>
+    <Orders id="10998" date="1998-04-03T00:00:00">
+      <items>
+        <item price="4.5000" quantity="12" />
+        <item price="28.5000" quantity="7" />
+        <item price="10.0000" quantity="20" />
+        <item price="7.7500" quantity="30" />
+      </items>
+    </Orders>
+    <Orders id="11044" date="1998-04-23T00:00:00">
+      <items>
+        <item price="49.3000" quantity="12" />
+      </items>
+    </Orders>
+  </Customer>
+</Customers>

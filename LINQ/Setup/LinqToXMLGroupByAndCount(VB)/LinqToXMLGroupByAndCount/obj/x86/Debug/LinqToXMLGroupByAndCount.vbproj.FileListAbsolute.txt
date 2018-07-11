@@ -1,0 +1,12 @@
+C:\temp\LinqToXMLGroupByAndCount\LinqToXMLGroupByAndCount\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp\LinqToXMLGroupByAndCount\LinqToXMLGroupByAndCount\obj\x86\Debug\LinqToXMLGroupByAndCount.Form1.resources
+C:\temp\LinqToXMLGroupByAndCount\LinqToXMLGroupByAndCount\obj\x86\Debug\LinqToXMLGroupByAndCount.Resources.resources
+C:\temp\LinqToXMLGroupByAndCount\LinqToXMLGroupByAndCount\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\temp\LinqToXMLGroupByAndCount\LinqToXMLGroupByAndCount\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\temp\LinqToXMLGroupByAndCount\LinqToXMLGroupByAndCount\bin\Debug\Users.xml
+C:\temp\LinqToXMLGroupByAndCount\LinqToXMLGroupByAndCount\bin\Debug\LinqToXMLGroupByAndCount.exe
+C:\temp\LinqToXMLGroupByAndCount\LinqToXMLGroupByAndCount\bin\Debug\LinqToXMLGroupByAndCount.pdb
+C:\temp\LinqToXMLGroupByAndCount\LinqToXMLGroupByAndCount\bin\Debug\LinqToXMLGroupByAndCount.xml
+C:\temp\LinqToXMLGroupByAndCount\LinqToXMLGroupByAndCount\obj\x86\Debug\LinqToXMLGroupByAndCount.exe
+C:\temp\LinqToXMLGroupByAndCount\LinqToXMLGroupByAndCount\obj\x86\Debug\LinqToXMLGroupByAndCount.xml
+C:\temp\LinqToXMLGroupByAndCount\LinqToXMLGroupByAndCount\obj\x86\Debug\LinqToXMLGroupByAndCount.pdb

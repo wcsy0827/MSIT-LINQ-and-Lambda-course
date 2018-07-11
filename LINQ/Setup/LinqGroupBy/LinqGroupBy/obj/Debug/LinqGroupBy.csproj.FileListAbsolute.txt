@@ -1,0 +1,3 @@
+C:\temp\LinqGroupBy\LinqGroupBy\bin\Debug\WindowsFormsApplication2.exe.config
+C:\temp\LinqGroupBy\LinqGroupBy\obj\Debug\WindowsFormsApplication2.exe
+C:\temp\LinqGroupBy\LinqGroupBy\obj\Debug\WindowsFormsApplication2.pdb

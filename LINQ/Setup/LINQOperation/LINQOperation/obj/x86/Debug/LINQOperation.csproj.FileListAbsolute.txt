@@ -1,0 +1,14 @@
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\obj\x86\Debug\LINQOperation.Form1.resources
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\obj\x86\Debug\LINQOperation.frmGroupBy.resources
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\obj\x86\Debug\LINQOperation.Properties.Resources.resources
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\bin\Debug\LINQOperation.exe.config
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\bin\Debug\LINQOperation.exe
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\bin\Debug\LINQOperation.pdb
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\obj\x86\Debug\LINQOperation.exe
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\obj\x86\Debug\LINQOperation.pdb
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\obj\x86\Debug\LINQOperation.frmDistinct.resources
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\obj\x86\Debug\LINQOperation.frmSum.resources
+H:\Data\tihs\mine\Course\補充資料\LINQOperation\LINQOperation\obj\x86\Debug\LINQOperation.frmMinMaxAverage.resources

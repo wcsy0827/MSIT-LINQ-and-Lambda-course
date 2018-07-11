@@ -1,0 +1,14 @@
+C:\temp\ByCount\ByCount\bin\Debug\ByCount.exe.config
+C:\temp\ByCount\ByCount\bin\Debug\ByCount.exe
+C:\temp\ByCount\ByCount\bin\Debug\ByCount.pdb
+C:\temp\ByCount\ByCount\bin\Debug\EntityFramework.dll
+C:\temp\ByCount\ByCount\bin\Debug\EntityFramework.SqlServer.dll
+C:\temp\ByCount\ByCount\bin\Debug\EntityFramework.xml
+C:\temp\ByCount\ByCount\bin\Debug\EntityFramework.SqlServer.xml
+C:\temp\ByCount\ByCount\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\temp\ByCount\ByCount\obj\Debug\ByCount.csprojResolveAssemblyReference.cache
+C:\temp\ByCount\ByCount\obj\Debug\ByCount.Form1.resources
+C:\temp\ByCount\ByCount\obj\Debug\ByCount.Properties.Resources.resources
+C:\temp\ByCount\ByCount\obj\Debug\ByCount.csproj.GenerateResource.Cache
+C:\temp\ByCount\ByCount\obj\Debug\ByCount.exe
+C:\temp\ByCount\ByCount\obj\Debug\ByCount.pdb

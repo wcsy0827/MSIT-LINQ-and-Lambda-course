@@ -1,0 +1,16 @@
+C:\temp\CustomerOrders\CustomerOrders\bin\Debug\CustomerOrders.exe.config
+C:\temp\CustomerOrders\CustomerOrders\bin\Debug\CustomerOrders.exe
+C:\temp\CustomerOrders\CustomerOrders\bin\Debug\CustomerOrders.pdb
+C:\temp\CustomerOrders\CustomerOrders\bin\Debug\EntityFramework.dll
+C:\temp\CustomerOrders\CustomerOrders\bin\Debug\EntityFramework.SqlServer.dll
+C:\temp\CustomerOrders\CustomerOrders\bin\Debug\EntityFramework.xml
+C:\temp\CustomerOrders\CustomerOrders\bin\Debug\EntityFramework.SqlServer.xml
+C:\temp\CustomerOrders\CustomerOrders\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\temp\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.csprojResolveAssemblyReference.cache
+C:\temp\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.Properties.Resources.resources
+C:\temp\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.csproj.GenerateResource.cache
+C:\temp\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.csproj.CoreCompileInputs.cache
+C:\temp\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.csproj.CopyComplete
+C:\temp\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.exe
+C:\temp\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.pdb
+C:\temp\CustomerOrders\CustomerOrders\obj\Debug\CustomerOrders.Form1.resources
